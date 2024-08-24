@@ -4,15 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dracostryx: Project Old Guard</title>
-    <script src="https://cdn.jsdelivr.net/npm/alpinejs" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js"></script>
+    <script src="app.js"></script>
 </head>
 <body>
     <header>
         <h1>Dracostryx</h1>
         <h2>Project Old Guard</h2>
     </header>
-    <main>
-
+    <main x-data="appData()" x-init="fetchData()">
+        <template x-if="data.length > 0">
+            <table>
+                <thead>
+                    <tr>
+                        <template x-for="(header, index) in headers" :key="index">
+                            <th x-text="header"></th>
+                        </template>
+                    </tr>
+                </thead>
+                <tbody>
+                    <template x-for="(item, index) in data" :key="index">
+                        <tr>
+                            <template x-for="(value, key) in item" :key="key">
+                                <td x-text="value"></td>
+                            </template>
+                        </tr>
+                    </template>
+                </tbody>
+            </table>
+        </template>
     </main>
     <footer>
         &copy;

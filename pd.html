@@ -11,6 +11,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- DataTables JS -->
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="pd.js"></script>
 </head>
 <body>
     <header>
@@ -35,7 +36,15 @@
     </header>
     <main>
         <h2>PaperDemon Imports</h2>
-        <p>Coming soon.</p>
+        <div id="loading">
+            <span>Loading...</span>
+        </div>
+        <div id="table-container" style="display:none;">
+            <table id="dataTable" class="display">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </div>
     </main>
     <footer>
         <strong>Images and data are listed for archival purposes.</strong> This website does not claim ownership. Characters and artwork belong to their respective owners and creators. 

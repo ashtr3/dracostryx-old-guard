@@ -10,7 +10,7 @@ $(document).ready(function() {
     async function fetchData() {
         $('#loading').show();
         try {
-            const response = await fetch('../data/devart_data.json');
+            const response = await fetch('data/devart_data.json');
             const jsonData = await response.json();
             const rows = jsonData.rows || [];
             if (rows.length > 0) {

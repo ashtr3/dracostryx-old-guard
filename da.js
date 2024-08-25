@@ -33,13 +33,27 @@ $(document).ready(function() {
                         case 'tail':
                         case 'biorhythm':
                         case 'breath':
-                        case 'abilities':
-                        case 'mutations':
-                        case 'health':
                         case 'status':
                             render = function(data, type, row) {
                                 return deslugify(data);
                             };
+                            break;
+                        case 'abilities':
+                        case 'mutations':
+                        case 'health':
+                            render = function(data, type, row) {
+                                let items = data ? data.split(',') : [];
+                                let str = items.map(item => `<span class="trait-pill">${deslugify(item)}</span>`).join('');
+                                return str;
+                            }
+                            break;
+                        case 'owner':
+                        case 'designer':
+                            render = function(data, type, row) {
+                                let items = data ? data.split(/[,/]/) : [];
+                                let str = items.map(item => `<a href="https://deviantart.com/${item}" target="_blank">${item}</a>`).join(', ');
+                                return str;
+                            }
                             break;
                     }
                     if (render) {

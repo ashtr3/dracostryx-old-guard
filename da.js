@@ -2,9 +2,9 @@ $(document).ready(function() {
     let table;
 
     function deslugify(text) {
-        return text
+        return text ? text
             .replace(/_/g, ' ')
-            .replace(/\b\w/g, char => char.toUpperCase());
+            .replace(/\b\w/g, char => char.toUpperCase()) : null;
     }
 
     async function fetchData() {
@@ -16,22 +16,43 @@ $(document).ready(function() {
             if (rows.length > 0) {
                 const headers = Object.keys(rows[0]);
                 const columns = headers.map((header, index) => {
-                    if (index === 0) {
-                        return {
-                            title: deslugify(header),
-                            data: header,
-                            render: function(data, type, row) {
+                    let render = null;
+                    switch(header) {
+                        case 'image':
+                            render = function(data, type, row) {
                                 return `
                                     <a href="${data}" target="_blank">
                                         <img src="${data}" alt="import" loading="lazy" style="max-width: 100px; max-height: 100px;"/>
                                     </a>`;
-                            }
-                        };
+                            };
+                            break;
+                        case 'species':
+                        case 'breed':
+                        case 'body_type':
+                        case 'sex':
+                        case 'tail':
+                        case 'biorhythm':
+                        case 'breath':
+                        case 'abilities':
+                        case 'mutations':
+                        case 'health':
+                        case 'status':
+                            render = function(data, type, row) {
+                                return deslugify(data);
+                            };
+                            break;
+                    }
+                    if (render) {
+                        return {
+                            title: deslugify(header),
+                            data: header,
+                            render: render
+                        }
                     } else {
                         return {
                             title: deslugify(header),
                             data: header
-                        };
+                        }
                     }
                 });
 

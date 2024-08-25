@@ -41,12 +41,18 @@ $(document).ready(function() {
                     paging: true,
                     searching: true,
                     ordering: true,
+                    scrollX: true,
+                    scrollY: true,
+                    order: [[1, 'asc']],
+                    columnDefs: [
+                        {
+                            targets: [0],
+                            orderable: false
+                        }
+                    ],
                     info: true,
                     // Additional DataTables options can be added here
                 });
-
-                // Populate headers (optional, since DataTables handles this)
-                $('#dataTable thead tr').html(columns.map(col => `<th>${col.title}</th>`).join(''));
 
                 // Hide loading spinner and show table
                 $('#loading').hide();

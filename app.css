@@ -8,29 +8,25 @@ html {
     scroll-behavior: smooth;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
-    display: grid;
-    grid-template-areas:
-        'header'
-        'main'
-        'footer';
-    grid-template-rows: repeat(3, auto);
-    height: 100vh;
     margin: 0;
     padding: 0;
 }
 
 header, footer {
+    position: sticky;
+    z-index: 3;
     padding: 1rem;
-    background-color: hsl(238, 53%, 12%);
+    background-color: hsl(238, 45%, 16%);
     color: hsl(238, 53%, 90%);
 }
 
 header {
-    grid-area: header;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+    top: 0;
 
     & h1 {
         font-family: "Amatic SC", sans-serif;
@@ -53,14 +49,9 @@ header {
             text-transform: uppercase;
             font-weight: 600;
             letter-spacing: normal;
-            transition: 
-                letter-spacing 500ms,
-                font-size 250ms,
-                color 250ms;
+            transition: color 250ms;
 
             &:hover {
-                letter-spacing: .05em;
-                font-size: 1.01em;
                 color: hsl(238, 35%, 80%);
             }
         }
@@ -68,81 +59,120 @@ header {
 }
 
 footer {
-    grid-area: footer;
+    bottom: 0;
 }
 
 main {
-    grid-area: main;
+    min-height: 100%;
     padding: 1rem;
-    overflow: auto;
-    min-height: 50vh;
     position: relative;
+    background-color: hsl(238, 25%, 95%);
+    color: hsl(238, 15%, 15%);
+    text-shadow: 0 -1px 2px hsla(238, 25%, 30%, 0.325);
 
-    &.toc-wrapper {
-        display: grid;
-        grid-template-areas:
-            'content toc';
-        grid-template-columns: auto 16rem;
-        column-gap: 1rem;
-
-        & #content {
-            grid-area: content;
-            height: 100%;
-            overflow: auto;
-        }
-
-        & #toc {
-            grid-area: toc;
-            background: linear-gradient(to bottom, hsl(238, 25%, 85%), hsl(238, 25%, 95%));
-            border: 1px solid hsl(238, 25%, 90%);
-            border-radius: .25rem;
-            color: hsl(238, 25%, 15%);
-            padding: 1rem;
-
-            & h3 {
-                margin: 0;
-                padding: .25rem .5rem;
-            }
-    
-            & ul {
-                margin:0;
-                padding-inline: .75rem;
-                list-style: none;
-    
-                & li {
-                    padding-block: .125rem;
-                }
-            }
-    
-            & a {
-                color: inherit;
-                text-decoration: none;
-                transition: color 250ms;
-    
-                &:hover {
-                    color: hsl(238, 25%, 50%);
-                    font-weight: 600;
-                }
-            }
-        }
+    & #inv_title {
+        text-transform: uppercase;
     }
 
-    & section ul {
+    & section {
 
-        & li {
-            margin-block-end: .5rem;
+        ul {
+            margin: 0;
+            margin-block-end: 2rem;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+    
+            & li {
+                margin: 0;
+                padding: 0;
+                background-color: hsl(237, 28%, 86%);
+                overflow: hidden;
+                border-radius: .125rem;
+    
+                & a {
+                    text-decoration: none;
+                    color: inherit;
+                    padding: .5rem 1rem;
+                    display: block;
+    
+                    &:hover {
+                        background-color: hsl(237, 32%, 81%);
+                    }
+                }
+            }
         }
     }
 }
 
 .trait-pill {
     font-size: .9em;
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsl(238, 25%, 80%);
     padding: .25rem .5rem;
     border-radius: .25rem;
     margin-inline: .25rem;
 }
 
-th {
-    text-align: left;
+.dataTables_wrapper {
+
+    & .dataTables_scroll {
+        border-radius: .25rem;
+        overflow: hidden;
+    }
+    
+    & .dataTables_length, .dataTables_filter {
+        margin-bottom: 1rem;
+    }
+
+    & .dataTables_paginate {
+        margin-block-start: .5rem;
+
+        & .paginate_button {
+            padding: .25rem .725rem!important;
+            border-radius: .125rem!important;
+
+            &.current {
+                background: none!important;
+                background-color: hsl(238, 25%, 70%)!important;
+                border: 1px solid hsl(238, 25%, 65%)!important;
+            }
+
+            &:hover:not(.current) {
+                background: none!important;
+                background-color: hsl(238, 25%, 80%)!important;
+                border: 1px solid hsl(238, 25%, 82%)!important;
+            }
+        }
+    }
+    
+    & table.dataTable {
+    
+        & thead th {
+            background-color: hsl(238, 35%, 26%);
+            color: hsl(238, 53%, 90%);
+            text-align: left;
+        }
+    
+        & tbody td {
+            border-color: hsl(238, 25%, 70%)!important;
+        }
+    
+        & tbody tr {
+            background-color: hsl(238, 25%, 90%)!important;
+    
+            & td.sorting_1 {
+                background-color: hsl(238, 25%, 85%)!important;
+            }
+        }
+    
+        & tbody tr:nth-child(even) {
+            background-color: hsl(238, 25%, 88%)!important;
+    
+            & td.sorting_1 {
+                background-color: hsl(238, 25%, 82%)!important;
+            }
+        }
+    }
 }

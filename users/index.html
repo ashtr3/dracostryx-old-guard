@@ -54,6 +54,13 @@
 </body>
 <script>
     $(document).ready(function() {
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        const baseHref = isGitHubPages ? '/dracostryx-old-guard/' : '/';
+
+        const baseElement = document.createElement('base');
+        baseElement.setAttribute('href', baseHref);
+        document.head.appendChild(baseElement);
+        
         fetchData('#dataTable', '../data/pdemon_users_data.json', {
             username: ColumnType.PD_USER,
             baubles: ColumnType.DEFAULT,

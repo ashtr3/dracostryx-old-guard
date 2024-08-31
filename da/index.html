@@ -52,6 +52,13 @@
 </body>
 <script>
     $(document).ready(function() {
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        const baseHref = isGitHubPages ? '/dracostryx-old-guard/' : '/';
+
+        const baseElement = document.createElement('base');
+        baseElement.setAttribute('href', baseHref);
+        document.head.appendChild(baseElement);
+        
         fetchData('#imports', '../data/devart_data.json', {
             image: ColumnType.IMAGE,
             import_id: ColumnType.DEFAULT,

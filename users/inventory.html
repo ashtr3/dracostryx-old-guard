@@ -20,22 +20,22 @@
         <h1>Dracostryx Archive</h1>
         <ul>
             <li>
-                <a href="/da">
+                <a href="../da">
                     DA Imports
                 </a>
             </li>
             <li>
-                <a href="/pd">
+                <a href="../pd">
                     PD Imports
                 </a>
             </li>
             <li>
-                <a href="/users">
+                <a href="../users">
                     Users
                 </a>
             </li>
             <li>
-                <a href="/wayback">
+                <a href="../wayback">
                     Wayback
                 </a>
             </li>
@@ -71,19 +71,12 @@
 </body>
 <script>
     $(document).ready(function() {
-        const isGitHubPages = window.location.hostname.includes('github.io');
-        const baseHref = isGitHubPages ? '/dracostryx-old-guard/' : '/';
-
-        const baseElement = document.createElement('base');
-        baseElement.setAttribute('href', baseHref);
-        document.head.appendChild(baseElement);
-
         const url = new URL(window.location.href);
         const params = new URLSearchParams(url.search);
         const username = params.get('user');
 
         if (!username) {
-            window.location.href = '/users';
+            window.location.href = '../users';
         }
 
         $('#inv_title').text(username);

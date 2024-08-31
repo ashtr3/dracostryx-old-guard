@@ -142,3 +142,7 @@ main {
     border-radius: .25rem;
     margin-inline: .25rem;
 }
+
+th {
+    text-align: left;
+}

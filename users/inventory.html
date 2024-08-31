@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dracostryx Archive</title>
+    <link rel="stylesheet" href="../app.css">
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <!-- DataTables Responsive CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="../js/datatable.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Dracostryx Archive</h1>
+        <ul>
+            <li>
+                <a href="/da">
+                    DA Imports
+                </a>
+            </li>
+            <li>
+                <a href="/pd">
+                    PD Imports
+                </a>
+            </li>
+            <li>
+                <a href="/users">
+                    Users
+                </a>
+            </li>
+            <li>
+                <a href="/wayback">
+                    Wayback
+                </a>
+            </li>
+        </ul>
+    </header>
+    <main>
+        <h2 id="inv_title"></h2>
+        <section>
+            <h3>Currencies</h3>
+            <table id="currencies">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </section>
+        <section>
+            <h3>Inventory</h3>
+            <table id="inventory">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </section> 
+        <section>
+            <h3>Imports</h3>
+            <table id="imports">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <strong>Images and data are listed for archival purposes.</strong> This website does not claim ownership. Characters and artwork belong to their respective owners and creators. 
+    </footer>
+</body>
+<script>
+    $(document).ready(function() {
+        const url = new URL(window.location.href);
+        const params = new URLSearchParams(url.search);
+        const username = params.get('user');
+
+        if (!username) {
+            window.location.href = '/users';
+        }
+
+        $('#inv_title').text(username);
+
+        fetchData('#currencies', '../data/pdemon_inventory_data.json', {
+            item: ColumnType.PROPER_TEXT,
+            quantity: ColumnType.DEFAULT,
+        }, { 
+            username: { value: username, operator: Operator.EQ },
+            category: { value: 'currency', operator: Operator.EQ }
+        }, [], 'item', null, false, false, false);
+
+        fetchData('#inventory', '../data/pdemon_inventory_data.json', {
+            item: ColumnType.PROPER_TEXT,
+            category: ColumnType.PROPER_TEXT,
+            quantity: ColumnType.DEFAULT,
+        }, { 
+            username: { value: username, operator: Operator.EQ },
+            category: { value: 'currency', operator: Operator.NOT }
+        }, [], 'item');
+
+        fetchData('#imports', '../data/pdemon_data.json', {
+            image: ColumnType.IMAGE,
+            import_id: ColumnType.DEFAULT,
+            name: ColumnType.PROPER_TEXT,
+            species: ColumnType.PROPER_TEXT,
+            breed: ColumnType.PROPER_TEXT,
+            body_type: ColumnType.PROPER_TEXT,
+            sex: ColumnType.PROPER_TEXT,
+            genotype: ColumnType.DEFAULT,
+            phenotype: ColumnType.DEFAULT,
+            tail: ColumnType.PROPER_TEXT,
+            biorhythm: ColumnType.PROPER_TEXT,
+            breath: ColumnType.PROPER_TEXT,
+            abilities: ColumnType.PILLS,
+            mutations: ColumnType.PILLS,
+            health: ColumnType.PILLS,
+            status: ColumnType.PROPER_TEXT,
+            designer: ColumnType.LINK
+        }, {
+            owner: { value: username, operator: Operator.EQ }
+        }, ['image'], 'import_id');
+    });
+</script>
+</html>

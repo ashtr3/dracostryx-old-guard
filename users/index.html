@@ -4,50 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dracostryx Archive</title>
-    <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="../app.css">
     <!-- DataTables CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <!-- DataTables Responsive CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- DataTables JS -->
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-    <script src="pd.js"></script>
+    <script src="../js/datatable.js"></script>
 </head>
 <body>
     <header>
         <h1>Dracostryx Archive</h1>
         <ul>
             <li>
-                <a href="da">
+                <a href="/da">
                     DA Imports
                 </a>
             </li>
             <li>
-                <a href="pd">
+                <a href="/pd">
                     PD Imports
                 </a>
             </li>
             <li>
-                <a href="wayback">
+                <a href="/users">
+                    Users
+                </a>
+            </li>
+            <li>
+                <a href="/wayback">
                     Wayback
                 </a>
             </li>
         </ul>
     </header>
     <main>
-        <h2>PaperDemon Imports</h2>
-        <div id="loading">
-            <span>Loading...</span>
-        </div>
-        <div id="table-container" style="display:none;">
-            <table id="dataTable" class="display">
-                <thead></thead>
-                <tbody></tbody>
-            </table>
-        </div>
+        <h2>Users</h2>
+        <table id="dataTable" class="display">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
     </main>
     <footer>
         <strong>Images and data are listed for archival purposes.</strong> This website does not claim ownership. Characters and artwork belong to their respective owners and creators. 
     </footer>
 </body>
+<script>
+    $(document).ready(function() {
+        fetchData('#dataTable', '../data/pdemon_users_data.json', {
+            username: ColumnType.PD_USER,
+            baubles: ColumnType.DEFAULT,
+            total_items: ColumnType.DEFAULT,
+        }, {}, [], 'username', {
+            title: 'Details',
+            text: 'View Details',
+            column: 'username',
+            endpoint: '/users/inventory.html?user='
+        });
+    });
+</script>
 </html>

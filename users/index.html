@@ -54,14 +54,17 @@
 </body>
 <script>
     $(document).ready(function() {
-        fetchData('#dataTable', '../data/pdemon_users_data.json', {
-            username: ColumnType.PD_USER,
+        fetchData('#dataTable', '../data/user_data.json', {
+            index: ColumnType.DEFAULT,
+            da_username: ColumnType.DA_USER,
+            pd_username: ColumnType.PD_USER,
             baubles: ColumnType.DEFAULT,
-            total_items: ColumnType.DEFAULT,
-        }, {}, [], 'username', {
+            da_items: ColumnType.DEFAULT,
+            pd_items: ColumnType.DEFAULT,
+        }, {}, [], 'index', {
             title: 'Details',
             text: 'View Details',
-            column: 'username',
+            column: 'index',
             endpoint: '../users/inventory.html?user='
         });
     });

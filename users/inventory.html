@@ -51,15 +51,29 @@
             </table>
         </section>
         <section>
-            <h3>Inventory</h3>
-            <table id="inventory" class="display">
+            <h3>PD Inventory</h3>
+            <table id="pd-inventory" class="display">
                 <thead></thead>
                 <tbody></tbody>
             </table>
         </section> 
         <section>
-            <h3>Imports</h3>
-            <table id="imports" class="display">
+            <h3>DA Inventory</h3>
+            <table id="da-inventory" class="display">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </section> 
+        <section>
+            <h3>PD Imports</h3>
+            <table id="pd-imports" class="display">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </section>
+        <section>
+            <h3>DA Imports</h3>
+            <table id="da-imports" class="display">
                 <thead></thead>
                 <tbody></tbody>
             </table>
@@ -73,52 +87,94 @@
     $(document).ready(function() {
         const url = new URL(window.location.href);
         const params = new URLSearchParams(url.search);
-        const username = params.get('user');
+        const index = params.get('user');
 
-        if (!username) {
+        if (!index) {
             window.location.href = '../users';
         }
 
-        $('#inv_title').text(username);
+        $.getJSON('../data/user_data.json', function(data) {
+            const result = $.grep(data.rows, function(obj) {
+                return obj.index === parseInt(index, 10);
+            });
+            if (result.length > 0) {
+                const row = result[0];
+                const pd_user = row.pd_username;
+                const da_user = row.da_username;
 
-        fetchData('#currencies', '../data/pdemon_inventory_data.json', {
-            item: ColumnType.PROPER_TEXT,
-            quantity: ColumnType.DEFAULT,
-        }, { 
-            username: { value: username, operator: Operator.EQ },
-            category: { value: 'currency', operator: Operator.EQ }
-        }, [], 'item', null, false, false, false);
+                $('#inv_title').text(da_user + ' / ' + pd_user);
 
-        fetchData('#inventory', '../data/pdemon_inventory_data.json', {
-            item: ColumnType.PROPER_TEXT,
-            category: ColumnType.PROPER_TEXT,
-            quantity: ColumnType.DEFAULT,
-        }, { 
-            username: { value: username, operator: Operator.EQ },
-            category: { value: 'currency', operator: Operator.NOT }
-        }, [], 'item');
+                fetchData('#currencies', '../data/pdemon_inventory_data.json', {
+                    item: ColumnType.PROPER_TEXT,
+                    quantity: ColumnType.DEFAULT,
+                }, { 
+                    username: { value: pd_user, operator: Operator.EQ },
+                    category: { value: 'currency', operator: Operator.EQ }
+                }, [], 'item', null, false, false, false);
 
-        fetchData('#imports', '../data/pdemon_data.json', {
-            image: ColumnType.IMAGE,
-            import_id: ColumnType.DEFAULT,
-            name: ColumnType.PROPER_TEXT,
-            species: ColumnType.PROPER_TEXT,
-            breed: ColumnType.PROPER_TEXT,
-            body_type: ColumnType.PROPER_TEXT,
-            sex: ColumnType.PROPER_TEXT,
-            genotype: ColumnType.DEFAULT,
-            phenotype: ColumnType.DEFAULT,
-            tail: ColumnType.PROPER_TEXT,
-            biorhythm: ColumnType.PROPER_TEXT,
-            breath: ColumnType.PROPER_TEXT,
-            abilities: ColumnType.PILLS,
-            mutations: ColumnType.PILLS,
-            health: ColumnType.PILLS,
-            status: ColumnType.PROPER_TEXT,
-            designer: ColumnType.LINK
-        }, {
-            owner: { value: username, operator: Operator.EQ }
-        }, ['image'], 'import_id');
+                fetchData('#pd-inventory', '../data/pdemon_inventory_data.json', {
+                    item: ColumnType.PROPER_TEXT,
+                    category: ColumnType.PROPER_TEXT,
+                    quantity: ColumnType.DEFAULT,
+                }, { 
+                    username: { value: pd_user, operator: Operator.EQ },
+                    category: { value: 'currency', operator: Operator.NOT }
+                }, [], 'item');
+
+                fetchData('#da-inventory', '../data/devart_inventory_data.json', {
+                    item: ColumnType.PROPER_TEXT,
+                    category: ColumnType.PROPER_TEXT,
+                    quantity: ColumnType.DEFAULT,
+                }, { 
+                    username: { value: da_user, operator: Operator.EQ }
+                }, [], 'item');
+
+                fetchData('#pd-imports', '../data/pdemon_data.json', {
+                    image: ColumnType.IMAGE,
+                    import_id: ColumnType.DEFAULT,
+                    name: ColumnType.PROPER_TEXT,
+                    species: ColumnType.PROPER_TEXT,
+                    breed: ColumnType.PROPER_TEXT,
+                    body_type: ColumnType.PROPER_TEXT,
+                    sex: ColumnType.PROPER_TEXT,
+                    genotype: ColumnType.DEFAULT,
+                    phenotype: ColumnType.DEFAULT,
+                    tail: ColumnType.PROPER_TEXT,
+                    biorhythm: ColumnType.PROPER_TEXT,
+                    breath: ColumnType.PROPER_TEXT,
+                    abilities: ColumnType.PILLS,
+                    mutations: ColumnType.PILLS,
+                    health: ColumnType.PILLS,
+                    status: ColumnType.PROPER_TEXT,
+                    designer: ColumnType.LINK
+                }, {
+                    owner: { value: pd_user, operator: Operator.EQ }
+                }, ['image'], 'import_id');
+
+                fetchData('#da-imports', '../data/devart_data.json', {
+                    image: ColumnType.IMAGE,
+                    import_id: ColumnType.DEFAULT,
+                    name: ColumnType.PROPER_TEXT,
+                    species: ColumnType.PROPER_TEXT,
+                    breed: ColumnType.PROPER_TEXT,
+                    body_type: ColumnType.PROPER_TEXT,
+                    sex: ColumnType.PROPER_TEXT,
+                    genotype: ColumnType.DEFAULT,
+                    phenotype: ColumnType.DEFAULT,
+                    tail: ColumnType.PROPER_TEXT,
+                    biorhythm: ColumnType.PROPER_TEXT,
+                    breath: ColumnType.PROPER_TEXT,
+                    abilities: ColumnType.PILLS,
+                    mutations: ColumnType.PILLS,
+                    health: ColumnType.PILLS,
+                    status: ColumnType.PROPER_TEXT,
+                    designer: ColumnType.DA_USERS
+                }, {
+                    owner: { value: da_user, operator: Operator.EQ }
+                }, ['image'], 'import_id');
+            }
+            console.log(result);
+        });
     });
 </script>
 </html>

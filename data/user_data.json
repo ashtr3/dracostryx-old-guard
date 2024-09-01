@@ -1,0 +1,7350 @@
+{
+	"table": "users",
+	"rows":
+	[
+		{
+			"index": 1,
+			"da_username": "6-ft-demon",
+			"pd_username": "6ftdemon",
+			"baubles": 20394,
+			"da_items": 110,
+			"pd_items": 563
+		},
+		{
+			"index": 2,
+			"da_username": "acceril",
+			"pd_username": "acceril",
+			"baubles": 0,
+			"da_items": 172,
+			"pd_items": 4
+		},
+		{
+			"index": 3,
+			"da_username": "aiggy",
+			"pd_username": "aiggy",
+			"baubles": 13614,
+			"da_items": 325,
+			"pd_items": 365
+		},
+		{
+			"index": 4,
+			"da_username": "theasterik",
+			"pd_username": "algedonics",
+			"baubles": 12612,
+			"da_items": 380,
+			"pd_items": 715
+		},
+		{
+			"index": 5,
+			"da_username": "missalmighty",
+			"pd_username": "almighty",
+			"baubles": 5611,
+			"da_items": 14,
+			"pd_items": 72
+		},
+		{
+			"index": 6,
+			"da_username": "alriandi",
+			"pd_username": "alriandi",
+			"baubles": 9623,
+			"da_items": 350,
+			"pd_items": 1144
+		},
+		{
+			"index": 7,
+			"da_username": "amanock",
+			"pd_username": "amanock",
+			"baubles": 22580,
+			"da_items": 415,
+			"pd_items": 831
+		},
+		{
+			"index": 8,
+			"da_username": "ladyteatime",
+			"pd_username": "amyofink",
+			"baubles": 0,
+			"da_items": 52,
+			"pd_items": 5
+		},
+		{
+			"index": 9,
+			"da_username": "anarchisme",
+			"pd_username": "anarchisme",
+			"baubles": 2500,
+			"da_items": 27,
+			"pd_items": 27
+		},
+		{
+			"index": 10,
+			"da_username": "ancientboo",
+			"pd_username": "ancientboo",
+			"baubles": 4245,
+			"da_items": 46,
+			"pd_items": 52
+		},
+		{
+			"index": 11,
+			"da_username": "androidhalo",
+			"pd_username": "androidhalo",
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 12,
+			"da_username": "aniju-aura",
+			"pd_username": "aniju",
+			"baubles": 2000,
+			"da_items": 48,
+			"pd_items": 56
+		},
+		{
+			"index": 13,
+			"da_username": "animefan4eternity23",
+			"pd_username": "animefan4eternity23",
+			"baubles": 2000,
+			"da_items": 53,
+			"pd_items": 88
+		},
+		{
+			"index": 14,
+			"da_username": "annam03",
+			"pd_username": "annam03",
+			"baubles": 4000,
+			"da_items": 4,
+			"pd_items": 112
+		},
+		{
+			"index": 15,
+			"da_username": "aracollie",
+			"pd_username": "aracollie",
+			"baubles": 5750,
+			"da_items": 67,
+			"pd_items": 72
+		},
+		{
+			"index": 16,
+			"da_username": "areetala",
+			"pd_username": "areetala",
+			"baubles": 398,
+			"da_items": 241,
+			"pd_items": 335
+		},
+		{
+			"index": 17,
+			"da_username": "arkilliandragon",
+			"pd_username": "arkilliandragon",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 30
+		},
+		{
+			"index": 18,
+			"da_username": "dismudd",
+			"pd_username": "arowanadealer",
+			"baubles": 5100,
+			"da_items": 2,
+			"pd_items": 94
+		},
+		{
+			"index": 19,
+			"da_username": "frostieheart",
+			"pd_username": "arya-rayne",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 10
+		},
+		{
+			"index": 20,
+			"da_username": "neochmiaphaeton",
+			"pd_username": "asch",
+			"baubles": 2110,
+			"da_items": 67,
+			"pd_items": 63
+		},
+		{
+			"index": 21,
+			"da_username": "ashenantlers",
+			"pd_username": "ashenantlers",
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 10
+		},
+		{
+			"index": 22,
+			"da_username": "askurasaki",
+			"pd_username": "askurasaki",
+			"baubles": 9625,
+			"da_items": 82,
+			"pd_items": 170
+		},
+		{
+			"index": 23,
+			"da_username": "atoxicrose",
+			"pd_username": "atoxicrose",
+			"baubles": 140,
+			"da_items": 36,
+			"pd_items": 54
+		},
+		{
+			"index": 24,
+			"da_username": "autumn1185",
+			"pd_username": "autumn1185",
+			"baubles": 11930,
+			"da_items": 128,
+			"pd_items": 372
+		},
+		{
+			"index": 25,
+			"da_username": "aymea",
+			"pd_username": "aymea",
+			"baubles": 0,
+			"da_items": 311,
+			"pd_items": 272
+		},
+		{
+			"index": 26,
+			"da_username": "azikeos",
+			"pd_username": "azikeos",
+			"baubles": 890,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 27,
+			"da_username": "baylili00",
+			"pd_username": "baylili00",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 28,
+			"da_username": "beepups",
+			"pd_username": "beepups",
+			"baubles": 1000,
+			"da_items": 8,
+			"pd_items": 8
+		},
+		{
+			"index": 29,
+			"da_username": "bela-designs",
+			"pd_username": "beladesigns",
+			"baubles": 5900,
+			"da_items": 50,
+			"pd_items": 39
+		},
+		{
+			"index": 30,
+			"da_username": "birdsothii",
+			"pd_username": "birdsothii",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 31,
+			"da_username": "bloodylys",
+			"pd_username": "bloodylys",
+			"baubles": 2075,
+			"da_items": 34,
+			"pd_items": 44
+		},
+		{
+			"index": 32,
+			"da_username": "bluefoxaurora",
+			"pd_username": "bluefoxaurora",
+			"baubles": 3061,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 33,
+			"da_username": "bluethecaracal",
+			"pd_username": "bluethecaracal",
+			"baubles": 760,
+			"da_items": 14,
+			"pd_items": 14
+		},
+		{
+			"index": 34,
+			"da_username": "bolthound /\nrompingbolty",
+			"pd_username": "bolthound",
+			"baubles": 5000,
+			"da_items": 47,
+			"pd_items": 53
+		},
+		{
+			"index": 35,
+			"da_username": "bonzzee",
+			"pd_username": "bonzzee",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 36,
+			"da_username": "kittfurry",
+			"pd_username": "breetbowl",
+			"baubles": 9750,
+			"da_items": 88,
+			"pd_items": 154
+		},
+		{
+			"index": 37,
+			"da_username": "breezydraws",
+			"pd_username": "breezydraws",
+			"baubles": 3840,
+			"da_items": 42,
+			"pd_items": 96
+		},
+		{
+			"index": 38,
+			"da_username": "calluna-draconis",
+			"pd_username": "callunadraconis",
+			"baubles": 24465,
+			"da_items": 115,
+			"pd_items": 574
+		},
+		{
+			"index": 39,
+			"da_username": "pokeparables",
+			"pd_username": "cardinalscarlet",
+			"baubles": 1000,
+			"da_items": 13,
+			"pd_items": 27
+		},
+		{
+			"index": 40,
+			"da_username": "cassieproductions",
+			"pd_username": "cassieproductions",
+			"baubles": 7115,
+			"da_items": 543,
+			"pd_items": 590
+		},
+		{
+			"index": 41,
+			"da_username": "celestialorca /\ncelestial-arpg",
+			"pd_username": "celestialorca",
+			"baubles": 4820,
+			"da_items": 137,
+			"pd_items": 378
+		},
+		{
+			"index": 42,
+			"da_username": "chaccra",
+			"pd_username": "chaccra",
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 10
+		},
+		{
+			"index": 43,
+			"da_username": "chatlunatique",
+			"pd_username": "chatlunatique",
+			"baubles": 300,
+			"da_items": 12,
+			"pd_items": 13
+		},
+		{
+			"index": 44,
+			"da_username": "chocolatesparerib",
+			"pd_username": "chocolatesparerib",
+			"baubles": 0,
+			"da_items": 19,
+			"pd_items": 0
+		},
+		{
+			"index": 45,
+			"da_username": "cicatrixes",
+			"pd_username": "cicatrixes",
+			"baubles": 9256,
+			"da_items": 72,
+			"pd_items": 78
+		},
+		{
+			"index": 46,
+			"da_username": "classysnakey",
+			"pd_username": "classysnakey",
+			"baubles": 270,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 47,
+			"da_username": "cocopet2",
+			"pd_username": "cocopet2",
+			"baubles": 17380,
+			"da_items": 329,
+			"pd_items": 334
+		},
+		{
+			"index": 48,
+			"da_username": "pr0fessor-zoom / comixfang",
+			"pd_username": "comixfang",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 9
+		},
+		{
+			"index": 49,
+			"da_username": "comixqueen",
+			"pd_username": "comixqueen",
+			"baubles": 6285,
+			"da_items": 13,
+			"pd_items": 80
+		},
+		{
+			"index": 50,
+			"da_username": "copperwired",
+			"pd_username": "copperwired",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 5
+		},
+		{
+			"index": 51,
+			"da_username": "natroo31",
+			"pd_username": "crestedjay",
+			"baubles": 2000,
+			"da_items": 47,
+			"pd_items": 56
+		},
+		{
+			"index": 52,
+			"da_username": "cry-bird",
+			"pd_username": "cry-bird",
+			"baubles": 1100,
+			"da_items": 10,
+			"pd_items": 35
+		},
+		{
+			"index": 53,
+			"da_username": "cybersix-data7",
+			"pd_username": "cybersix",
+			"baubles": 2850,
+			"da_items": 4,
+			"pd_items": 113
+		},
+		{
+			"index": 54,
+			"da_username": "dalekfell",
+			"pd_username": "dalekfell",
+			"baubles": 0,
+			"da_items": 56,
+			"pd_items": 127
+		},
+		{
+			"index": 55,
+			"da_username": "darkarcangel5",
+			"pd_username": "darkarcangel5",
+			"baubles": 31070,
+			"da_items": 1063,
+			"pd_items": 1537
+		},
+		{
+			"index": 56,
+			"da_username": "maples-dracostryx",
+			"pd_username": "deepbluec",
+			"baubles": 2465,
+			"da_items": 94,
+			"pd_items": 169
+		},
+		{
+			"index": 57,
+			"da_username": "autumnflick",
+			"pd_username": "demon4",
+			"baubles": 445,
+			"da_items": 6,
+			"pd_items": 6
+		},
+		{
+			"index": 58,
+			"da_username": "demonfox3125",
+			"pd_username": "demonbird6744",
+			"baubles": 21529,
+			"da_items": 845,
+			"pd_items": 1724
+		},
+		{
+			"index": 59,
+			"da_username": "dexteri",
+			"pd_username": "dexteri",
+			"baubles": 0,
+			"da_items": 126,
+			"pd_items": 14
+		},
+		{
+			"index": 60,
+			"da_username": "dinorat",
+			"pd_username": "dinorat",
+			"baubles": 9055,
+			"da_items": 106,
+			"pd_items": 154
+		},
+		{
+			"index": 61,
+			"da_username": "dizzymountaineer",
+			"pd_username": "dizzydraws",
+			"baubles": 0,
+			"da_items": 194,
+			"pd_items": 0
+		},
+		{
+			"index": 62,
+			"da_username": "dogthatkills",
+			"pd_username": "dogthatkills",
+			"baubles": 15561,
+			"da_items": 147,
+			"pd_items": 80
+		},
+		{
+			"index": 63,
+			"da_username": "donnieapril123",
+			"pd_username": "donnieapril123",
+			"baubles": 1885,
+			"da_items": 86,
+			"pd_items": 92
+		},
+		{
+			"index": 64,
+			"da_username": "cheeseyturtle",
+			"pd_username": "dopeyoakeynuts",
+			"baubles": 8220,
+			"da_items": 42,
+			"pd_items": 186
+		},
+		{
+			"index": 65,
+			"da_username": "downdeer",
+			"pd_username": "downdeer",
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 13
+		},
+		{
+			"index": 66,
+			"da_username": "dragonfeenix",
+			"pd_username": "dragonfeenix",
+			"baubles": 4200,
+			"da_items": 10,
+			"pd_items": 246
+		},
+		{
+			"index": 67,
+			"da_username": "dragonmissy",
+			"pd_username": "dragonmissy",
+			"baubles": 5365,
+			"da_items": 251,
+			"pd_items": 368
+		},
+		{
+			"index": 68,
+			"da_username": "ekian",
+			"pd_username": "ekian",
+			"baubles": 111300,
+			"da_items": 1872,
+			"pd_items": 2821
+		},
+		{
+			"index": 69,
+			"da_username": "empressakitla",
+			"pd_username": "empressakitla",
+			"baubles": 21971,
+			"da_items": 600,
+			"pd_items": 652
+		},
+		{
+			"index": 70,
+			"da_username": "ethanoi",
+			"pd_username": "ethanol",
+			"baubles": 2778,
+			"da_items": 781,
+			"pd_items": 872
+		},
+		{
+			"index": 71,
+			"da_username": "surreptitiousseagull",
+			"pd_username": "ethiera",
+			"baubles": 17732,
+			"da_items": 148,
+			"pd_items": 328
+		},
+		{
+			"index": 72,
+			"da_username": "moondux",
+			"pd_username": "eyemittens",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 14
+		},
+		{
+			"index": 73,
+			"da_username": "firedragoran",
+			"pd_username": "firedragoran",
+			"baubles": 2500,
+			"da_items": 48,
+			"pd_items": 82
+		},
+		{
+			"index": 74,
+			"da_username": "firehorse24",
+			"pd_username": "firehorse24",
+			"baubles": 1000,
+			"da_items": 3,
+			"pd_items": 26
+		},
+		{
+			"index": 75,
+			"da_username": "fizzgryphon",
+			"pd_username": "fizzgryphon",
+			"baubles": 0,
+			"da_items": 309,
+			"pd_items": 13
+		},
+		{
+			"index": 76,
+			"da_username": "fluffy-duveteux",
+			"pd_username": "fluffy-duveteux",
+			"baubles": 23355,
+			"da_items": 295,
+			"pd_items": 664
+		},
+		{
+			"index": 77,
+			"da_username": "fogdragon23",
+			"pd_username": "fogdragon23",
+			"baubles": 2405,
+			"da_items": 40,
+			"pd_items": 42
+		},
+		{
+			"index": 78,
+			"da_username": "frafiran",
+			"pd_username": "frafiran",
+			"baubles": 1000,
+			"da_items": 8,
+			"pd_items": 8
+		},
+		{
+			"index": 79,
+			"da_username": "rav3nhound",
+			"pd_username": "franzferdinand",
+			"baubles": 2522,
+			"da_items": 151,
+			"pd_items": 540
+		},
+		{
+			"index": 80,
+			"da_username": "rodoescope",
+			"pd_username": "fyre",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 81,
+			"da_username": "gaingainsgrain",
+			"pd_username": "gaingainsgrain",
+			"baubles": 1522,
+			"da_items": 39,
+			"pd_items": 88
+		},
+		{
+			"index": 82,
+			"da_username": "galacticcommanderkat",
+			"pd_username": "galacticcommanderkat",
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 6
+		},
+		{
+			"index": 83,
+			"da_username": "gar-a-ash",
+			"pd_username": "gar-a-ash",
+			"baubles": 10412,
+			"da_items": 124,
+			"pd_items": 518
+		},
+		{
+			"index": 84,
+			"da_username": "glitchdove",
+			"pd_username": "glitchdove",
+			"baubles": 6379,
+			"da_items": 140,
+			"pd_items": 212
+		},
+		{
+			"index": 85,
+			"da_username": "goatverlord",
+			"pd_username": "goatverlord",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 86,
+			"da_username": "gooeyinkk",
+			"pd_username": "gooeynewt",
+			"baubles": 1000,
+			"da_items": 9,
+			"pd_items": 12
+		},
+		{
+			"index": 87,
+			"da_username": "goonlalagoon",
+			"pd_username": "goonlalagoon",
+			"baubles": 4000,
+			"da_items": 44,
+			"pd_items": 48
+		},
+		{
+			"index": 88,
+			"da_username": "grosszombie",
+			"pd_username": "grosszombie",
+			"baubles": 1970,
+			"da_items": 48,
+			"pd_items": 85
+		},
+		{
+			"index": 89,
+			"da_username": "gusteon",
+			"pd_username": "gusteon",
+			"baubles": 3450,
+			"da_items": 178,
+			"pd_items": 241
+		},
+		{
+			"index": 90,
+			"da_username": "guttjuice",
+			"pd_username": "guttjuice",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 91,
+			"da_username": "gzb-uwakimono",
+			"pd_username": "gzb-uwakimono",
+			"baubles": 223,
+			"da_items": 24,
+			"pd_items": 27
+		},
+		{
+			"index": 92,
+			"da_username": "hawkshadow743",
+			"pd_username": "halcyon",
+			"baubles": 2220,
+			"da_items": 7,
+			"pd_items": 7
+		},
+		{
+			"index": 93,
+			"da_username": "wildfire410",
+			"pd_username": "helianthe",
+			"baubles": 24294,
+			"da_items": 198,
+			"pd_items": 1088
+		},
+		{
+			"index": 94,
+			"da_username": "hibiscusmist",
+			"pd_username": "hibiscusmist",
+			"baubles": 1100,
+			"da_items": 25,
+			"pd_items": 47
+		},
+		{
+			"index": 95,
+			"da_username": "bitterlittlecarnival",
+			"pd_username": "hiddenwren",
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 2
+		},
+		{
+			"index": 96,
+			"da_username": "mklhn",
+			"pd_username": "hirundine",
+			"baubles": 2179,
+			"da_items": 118,
+			"pd_items": 136
+		},
+		{
+			"index": 97,
+			"da_username": "n0vaangel",
+			"pd_username": "illusionnova",
+			"baubles": 1100,
+			"da_items": 8,
+			"pd_items": 37
+		},
+		{
+			"index": 98,
+			"da_username": "imagi-nethat",
+			"pd_username": "imaginethat",
+			"baubles": 1810,
+			"da_items": 173,
+			"pd_items": 195
+		},
+		{
+			"index": 99,
+			"da_username": "infected-skully",
+			"pd_username": "infected-skully",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 100,
+			"da_username": "tsuani-inushiro",
+			"pd_username": "inushiro",
+			"baubles": 21001,
+			"da_items": 416,
+			"pd_items": 796
+		},
+		{
+			"index": 101,
+			"da_username": "itsall0ver",
+			"pd_username": "itsall0ver",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 102,
+			"da_username": "jadedsnow",
+			"pd_username": "jadedsnow",
+			"baubles": 1000,
+			"da_items": 62,
+			"pd_items": 72
+		},
+		{
+			"index": 103,
+			"da_username": "kageh",
+			"pd_username": "kageh",
+			"baubles": 33703,
+			"da_items": 418,
+			"pd_items": 676
+		},
+		{
+			"index": 104,
+			"da_username": "kaorusquee",
+			"pd_username": "kaorusquee",
+			"baubles": 22350,
+			"da_items": 441,
+			"pd_items": 539
+		},
+		{
+			"index": 105,
+			"da_username": "icefirestarfire\n/ starfirearpg",
+			"pd_username": "kataerys",
+			"baubles": 8130,
+			"da_items": 81,
+			"pd_items": 151
+		},
+		{
+			"index": 106,
+			"da_username": "ystlu",
+			"pd_username": "katosch",
+			"baubles": 3220,
+			"da_items": 21,
+			"pd_items": 57
+		},
+		{
+			"index": 107,
+			"da_username": "kid31",
+			"pd_username": "kid31",
+			"baubles": 10436,
+			"da_items": 4,
+			"pd_items": 84
+		},
+		{
+			"index": 108,
+			"da_username": "kidakins",
+			"pd_username": "kida",
+			"baubles": 3480,
+			"da_items": 108,
+			"pd_items": 108
+		},
+		{
+			"index": 109,
+			"da_username": "kur0kam1",
+			"pd_username": "kurokami",
+			"baubles": 6000,
+			"da_items": 48,
+			"pd_items": 58
+		},
+		{
+			"index": 110,
+			"da_username": "kwiwibird",
+			"pd_username": "kwiwibird",
+			"baubles": 50,
+			"da_items": 10,
+			"pd_items": 10
+		},
+		{
+			"index": 111,
+			"da_username": "kyrraven",
+			"pd_username": "kyrraven",
+			"baubles": 16785,
+			"da_items": 55,
+			"pd_items": 305
+		},
+		{
+			"index": 112,
+			"da_username": "lachtaube",
+			"pd_username": "lachtaube",
+			"baubles": 12796,
+			"da_items": 59,
+			"pd_items": 67
+		},
+		{
+			"index": 113,
+			"da_username": "lady-wynterfyre",
+			"pd_username": "lady-wynterfyre",
+			"baubles": 6395,
+			"da_items": 16,
+			"pd_items": 21
+		},
+		{
+			"index": 114,
+			"da_username": "kenitatatsumi/\nladylesednik",
+			"pd_username": "ladylesednik",
+			"baubles": 100,
+			"da_items": 16,
+			"pd_items": 25
+		},
+		{
+			"index": 115,
+			"da_username": "ladylirriea",
+			"pd_username": "ladylirriea",
+			"baubles": 0,
+			"da_items": 40,
+			"pd_items": 1
+		},
+		{
+			"index": 116,
+			"da_username": "zelphaba",
+			"pd_username": "ladytheo",
+			"baubles": 2655,
+			"da_items": 8,
+			"pd_items": 22
+		},
+		{
+			"index": 117,
+			"da_username": "lauren5528",
+			"pd_username": "lauren5528",
+			"baubles": 6100,
+			"da_items": 25,
+			"pd_items": 80
+		},
+		{
+			"index": 118,
+			"da_username": "lepismatidae",
+			"pd_username": "lepisma",
+			"baubles": 3100,
+			"da_items": 74,
+			"pd_items": 139
+		},
+		{
+			"index": 119,
+			"da_username": "leporidactic",
+			"pd_username": "leporidactic",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 120,
+			"da_username": "leygo",
+			"pd_username": "leygo",
+			"baubles": 0,
+			"da_items": 212,
+			"pd_items": 229
+		},
+		{
+			"index": 121,
+			"da_username": "lif0rneir0a",
+			"pd_username": "liforneiroa",
+			"baubles": 100,
+			"da_items": 4,
+			"pd_items": 6
+		},
+		{
+			"index": 122,
+			"da_username": "little-miss-eevee",
+			"pd_username": "little-miss-eevee",
+			"baubles": 3100,
+			"da_items": 220,
+			"pd_items": 612
+		},
+		{
+			"index": 123,
+			"da_username": "kurodaia-chan",
+			"pd_username": "littleze",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 124,
+			"da_username": "lobosong",
+			"pd_username": "lobosong",
+			"baubles": 8655,
+			"da_items": 140,
+			"pd_items": 156
+		},
+		{
+			"index": 125,
+			"da_username": "lord-kiviniik",
+			"pd_username": "lord-kiviniik",
+			"baubles": 8745,
+			"da_items": 16,
+			"pd_items": 60
+		},
+		{
+			"index": 126,
+			"da_username": "mlxter",
+			"pd_username": "masksinc",
+			"baubles": 18258,
+			"da_items": 5,
+			"pd_items": 134
+		},
+		{
+			"index": 127,
+			"da_username": "peacchtea(heliosthus)",
+			"pd_username": "masksinc",
+			"baubles": 18258,
+			"da_items": 49,
+			"pd_items": 134
+		},
+		{
+			"index": 128,
+			"da_username": "mehen",
+			"pd_username": "mehen",
+			"baubles": 4120,
+			"da_items": 51,
+			"pd_items": 56
+		},
+		{
+			"index": 129,
+			"da_username": "mischievous-akuma",
+			"pd_username": "mischievous-akuma",
+			"baubles": 2255,
+			"da_items": 477,
+			"pd_items": 513
+		},
+		{
+			"index": 130,
+			"da_username": "mloking",
+			"pd_username": "mloking",
+			"baubles": 940,
+			"da_items": 63,
+			"pd_items": 70
+		},
+		{
+			"index": 131,
+			"da_username": "theshadowsinger",
+			"pd_username": "mochicakez",
+			"baubles": 2815,
+			"da_items": 127,
+			"pd_items": 127
+		},
+		{
+			"index": 132,
+			"da_username": "modified333",
+			"pd_username": "modified",
+			"baubles": 1480,
+			"da_items": 12,
+			"pd_items": 93
+		},
+		{
+			"index": 133,
+			"da_username": "monochromefox",
+			"pd_username": "monochromefox",
+			"baubles": 4335,
+			"da_items": 73,
+			"pd_items": 91
+		},
+		{
+			"index": 134,
+			"da_username": "hana-nisshoku-kamazi",
+			"pd_username": "morganite-estate",
+			"baubles": 105,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 135,
+			"da_username": "mozathecatdragon",
+			"pd_username": "moza-catdragon",
+			"baubles": 1000,
+			"da_items": 15,
+			"pd_items": 49
+		},
+		{
+			"index": 136,
+			"da_username": "myamoo425",
+			"pd_username": "myamoo425",
+			"baubles": 2000,
+			"da_items": 12,
+			"pd_items": 16
+		},
+		{
+			"index": 137,
+			"da_username": "nachttowl",
+			"pd_username": "nachttowl",
+			"baubles": 7480,
+			"da_items": 51,
+			"pd_items": 55
+		},
+		{
+			"index": 138,
+			"da_username": "nako",
+			"pd_username": "nako",
+			"baubles": 5835,
+			"da_items": 107,
+			"pd_items": 320
+		},
+		{
+			"index": 139,
+			"da_username": "nataku",
+			"pd_username": "nataku",
+			"baubles": 9587,
+			"da_items": 771,
+			"pd_items": 1258
+		},
+		{
+			"index": 140,
+			"da_username": "nattikay",
+			"pd_username": "nattikay",
+			"baubles": 6413,
+			"da_items": 14,
+			"pd_items": 290
+		},
+		{
+			"index": 141,
+			"da_username": "anachronisticcadaver",
+			"pd_username": "necronomiconicorn",
+			"baubles": 15525,
+			"da_items": 236,
+			"pd_items": 265
+		},
+		{
+			"index": 142,
+			"da_username": "nekonotaishou",
+			"pd_username": "nekonotaishou",
+			"baubles": 800,
+			"da_items": 7,
+			"pd_items": 65
+		},
+		{
+			"index": 143,
+			"da_username": "whitewolfmoonlight",
+			"pd_username": "nestarym",
+			"baubles": 7711,
+			"da_items": 186,
+			"pd_items": 248
+		},
+		{
+			"index": 144,
+			"da_username": "nightofravens",
+			"pd_username": "night",
+			"baubles": 1850,
+			"da_items": 11,
+			"pd_items": 20
+		},
+		{
+			"index": 145,
+			"da_username": "nightovertamriel",
+			"pd_username": "nightovertamriel",
+			"baubles": 6270,
+			"da_items": 31,
+			"pd_items": 92
+		},
+		{
+			"index": 146,
+			"da_username": "nightwing-kain",
+			"pd_username": "nightwing-kain",
+			"baubles": 6067,
+			"da_items": 310,
+			"pd_items": 542
+		},
+		{
+			"index": 147,
+			"da_username": "ningeko",
+			"pd_username": "ningeko",
+			"baubles": 3650,
+			"da_items": 20,
+			"pd_items": 20
+		},
+		{
+			"index": 148,
+			"da_username": "noctae-arpg /\nnoctae-corvus",
+			"pd_username": "noctae-corvus",
+			"baubles": 0,
+			"da_items": 32,
+			"pd_items": 27
+		},
+		{
+			"index": 149,
+			"da_username": "northie-art",
+			"pd_username": "northie-art",
+			"baubles": 15937,
+			"da_items": 203,
+			"pd_items": 372
+		},
+		{
+			"index": 150,
+			"da_username": "skiber /\nnovofae",
+			"pd_username": "novofae",
+			"baubles": 1920,
+			"da_items": 10,
+			"pd_items": 10
+		},
+		{
+			"index": 151,
+			"da_username": "ocoree",
+			"pd_username": "ocoree",
+			"baubles": 2438,
+			"da_items": 11,
+			"pd_items": 24
+		},
+		{
+			"index": 152,
+			"da_username": "daniellemwilliams\n/ dmwarpg",
+			"pd_username": "oddowl",
+			"baubles": 977,
+			"da_items": 108,
+			"pd_items": 46
+		},
+		{
+			"index": 153,
+			"da_username": "ohitsujiarpg101",
+			"pd_username": "ohitsujiarpg101",
+			"baubles": 1000,
+			"da_items": 10,
+			"pd_items": 10
+		},
+		{
+			"index": 154,
+			"da_username": "oknn",
+			"pd_username": "oknn",
+			"baubles": 6425,
+			"da_items": 169,
+			"pd_items": 243
+		},
+		{
+			"index": 155,
+			"da_username": "kittyhooves",
+			"pd_username": "ombekende",
+			"baubles": 2100,
+			"da_items": 7,
+			"pd_items": 38
+		},
+		{
+			"index": 156,
+			"da_username": "ordinaryredtail",
+			"pd_username": "ordinaryredtail",
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 4
+		},
+		{
+			"index": 157,
+			"da_username": "otterlykath",
+			"pd_username": "otter",
+			"baubles": 6000,
+			"da_items": 177,
+			"pd_items": 195
+		},
+		{
+			"index": 158,
+			"da_username": "amaaroc",
+			"pd_username": "owldoggo",
+			"baubles": 3500,
+			"da_items": 17,
+			"pd_items": 20
+		},
+		{
+			"index": 159,
+			"da_username": "paradoxsketchbook",
+			"pd_username": "paradoxsketchbook",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 7
+		},
+		{
+			"index": 160,
+			"da_username": "pikku-peruna",
+			"pd_username": "pikku-peruna",
+			"baubles": 900,
+			"da_items": 3,
+			"pd_items": 22
+		},
+		{
+			"index": 161,
+			"da_username": "pimsri",
+			"pd_username": "pimsri",
+			"baubles": 18705,
+			"da_items": 268,
+			"pd_items": 327
+		},
+		{
+			"index": 162,
+			"da_username": "pixel-coyote",
+			"pd_username": "pixelcoyote",
+			"baubles": 19386,
+			"da_items": 50,
+			"pd_items": 438
+		},
+		{
+			"index": 163,
+			"da_username": "princejackdaw",
+			"pd_username": "princejackdaw",
+			"baubles": 7211,
+			"da_items": 20,
+			"pd_items": 109
+		},
+		{
+			"index": 164,
+			"da_username": "roadkill-cryptid",
+			"pd_username": "pronghornpunk",
+			"baubles": 1250,
+			"da_items": 148,
+			"pd_items": 158
+		},
+		{
+			"index": 165,
+			"da_username": "pyme",
+			"pd_username": "pyme",
+			"baubles": 14225,
+			"da_items": 22,
+			"pd_items": 26
+		},
+		{
+			"index": 166,
+			"da_username": "raumkind",
+			"pd_username": "raumkind",
+			"baubles": 1905,
+			"da_items": 31,
+			"pd_items": 33
+		},
+		{
+			"index": 167,
+			"da_username": "ravageone",
+			"pd_username": "ravageone",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 8
+		},
+		{
+			"index": 168,
+			"da_username": "rayxray",
+			"pd_username": "rayxray",
+			"baubles": 9425,
+			"da_items": 311,
+			"pd_items": 379
+		},
+		{
+			"index": 169,
+			"da_username": "redwilds",
+			"pd_username": "redwilds",
+			"baubles": 8420,
+			"da_items": 77,
+			"pd_items": 86
+		},
+		{
+			"index": 170,
+			"da_username": "rehqwq /\nreharpg",
+			"pd_username": "reharpg",
+			"baubles": 9293,
+			"da_items": 17,
+			"pd_items": 17
+		},
+		{
+			"index": 171,
+			"da_username": "requay",
+			"pd_username": "requay",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 172,
+			"da_username": "dekusei",
+			"pd_username": "retrokaiju",
+			"baubles": 3559,
+			"da_items": 8,
+			"pd_items": 10
+		},
+		{
+			"index": 173,
+			"da_username": "malwinra",
+			"pd_username": "revina",
+			"baubles": 1490,
+			"da_items": 63,
+			"pd_items": 71
+		},
+		{
+			"index": 174,
+			"da_username": "reyvii",
+			"pd_username": "reyvii",
+			"baubles": 17945,
+			"da_items": 224,
+			"pd_items": 240
+		},
+		{
+			"index": 175,
+			"da_username": "rh-enn",
+			"pd_username": "rhenn",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 176,
+			"da_username": "rilameth",
+			"pd_username": "rilameth",
+			"baubles": 0,
+			"da_items": 20,
+			"pd_items": 41
+		},
+		{
+			"index": 177,
+			"da_username": "rowansorva",
+			"pd_username": "rowansorva",
+			"baubles": 2100,
+			"da_items": 4,
+			"pd_items": 312
+		},
+		{
+			"index": 178,
+			"da_username": "runeharpy",
+			"pd_username": "runeharpy",
+			"baubles": 1315,
+			"da_items": 25,
+			"pd_items": 32
+		},
+		{
+			"index": 179,
+			"da_username": "saint-sputnik",
+			"pd_username": "saint-sputnik",
+			"baubles": 15540,
+			"da_items": 37,
+			"pd_items": 56
+		},
+		{
+			"index": 180,
+			"da_username": "scunnyelse",
+			"pd_username": "scunnyelse",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 3
+		},
+		{
+			"index": 181,
+			"da_username": "jiaodeng",
+			"pd_username": "seabird",
+			"baubles": 9620,
+			"da_items": 286,
+			"pd_items": 314
+		},
+		{
+			"index": 182,
+			"da_username": "seffiron",
+			"pd_username": "seffiron",
+			"baubles": 17825,
+			"da_items": 81,
+			"pd_items": 79
+		},
+		{
+			"index": 183,
+			"da_username": "sehanbrel",
+			"pd_username": "sehanbrel",
+			"baubles": 5215,
+			"da_items": 78,
+			"pd_items": 78
+		},
+		{
+			"index": 184,
+			"da_username": "senso85",
+			"pd_username": "senso85",
+			"baubles": 4000,
+			"da_items": 18,
+			"pd_items": 50
+		},
+		{
+			"index": 185,
+			"da_username": "dragondrawsdragons",
+			"pd_username": "serpentarius",
+			"baubles": 200,
+			"da_items": 34,
+			"pd_items": 39
+		},
+		{
+			"index": 186,
+			"da_username": "shavahiivallah",
+			"pd_username": "shavahiivallah",
+			"baubles": 40353,
+			"da_items": 811,
+			"pd_items": 1859
+		},
+		{
+			"index": 187,
+			"da_username": "sheepmomther",
+			"pd_username": "sheepmomther",
+			"baubles": 0,
+			"da_items": 171,
+			"pd_items": 17
+		},
+		{
+			"index": 188,
+			"da_username": "shiruberu",
+			"pd_username": "shiruberu",
+			"baubles": 1000,
+			"da_items": 4,
+			"pd_items": 4
+		},
+		{
+			"index": 189,
+			"da_username": "shopkey",
+			"pd_username": "shopkey",
+			"baubles": 796,
+			"da_items": 19,
+			"pd_items": 52
+		},
+		{
+			"index": 190,
+			"da_username": "shyftlock/\nshyadventures",
+			"pd_username": "shyftlock",
+			"baubles": 17869,
+			"da_items": 30,
+			"pd_items": 158
+		},
+		{
+			"index": 191,
+			"da_username": "sihiro",
+			"pd_username": "sihiro",
+			"baubles": 9000,
+			"da_items": 10,
+			"pd_items": 59
+		},
+		{
+			"index": 192,
+			"da_username": "silbernefuchs",
+			"pd_username": "silbernefuchs",
+			"baubles": 13250,
+			"da_items": 325,
+			"pd_items": 931
+		},
+		{
+			"index": 193,
+			"da_username": "jenndragon",
+			"pd_username": "silverjays",
+			"baubles": 53894,
+			"da_items": 824,
+			"pd_items": 2471
+		},
+		{
+			"index": 194,
+			"da_username": "silverystormwing",
+			"pd_username": "silverystormwing",
+			"baubles": 33161,
+			"da_items": 471,
+			"pd_items": 1162
+		},
+		{
+			"index": 195,
+			"da_username": "skaicat",
+			"pd_username": "skaicat",
+			"baubles": 1000,
+			"da_items": 9,
+			"pd_items": 9
+		},
+		{
+			"index": 196,
+			"da_username": "sketched-dragons",
+			"pd_username": "sketchies-arpg",
+			"baubles": 1000,
+			"da_items": 13,
+			"pd_items": 26
+		},
+		{
+			"index": 197,
+			"da_username": "sketchies-arpg",
+			"pd_username": "sketchies-arpg",
+			"baubles": 1000,
+			"da_items": 12,
+			"pd_items": 26
+		},
+		{
+			"index": 198,
+			"da_username": "skiie-shard",
+			"pd_username": "skiie-shard",
+			"baubles": 1000,
+			"da_items": 4,
+			"pd_items": 240
+		},
+		{
+			"index": 199,
+			"da_username": "skryzein",
+			"pd_username": "skryzein",
+			"baubles": 1000,
+			"da_items": 7,
+			"pd_items": 7
+		},
+		{
+			"index": 200,
+			"da_username": "smirkcatstales",
+			"pd_username": "smirkcatstales",
+			"baubles": 10871,
+			"da_items": 62,
+			"pd_items": 64
+		},
+		{
+			"index": 201,
+			"da_username": "snowshoyu",
+			"pd_username": "snowshoyu",
+			"baubles": 9680,
+			"da_items": 8,
+			"pd_items": 85
+		},
+		{
+			"index": 202,
+			"da_username": "snowwyvern",
+			"pd_username": "snowwyvern",
+			"baubles": 0,
+			"da_items": 40,
+			"pd_items": 46
+		},
+		{
+			"index": 203,
+			"da_username": "thatsoullessguy",
+			"pd_username": "soullessguy",
+			"baubles": 17995,
+			"da_items": 125,
+			"pd_items": 180
+		},
+		{
+			"index": 204,
+			"da_username": "spacep00dle",
+			"pd_username": "spacep00dle",
+			"baubles": 1100,
+			"da_items": 7,
+			"pd_items": 16
+		},
+		{
+			"index": 205,
+			"da_username": "hauntedspectral",
+			"pd_username": "spectralhauntings",
+			"baubles": 34,
+			"da_items": 7,
+			"pd_items": 56
+		},
+		{
+			"index": 206,
+			"da_username": "spectralprismdraws",
+			"pd_username": "spectralhauntings",
+			"baubles": 34,
+			"da_items": 38,
+			"pd_items": 56
+		},
+		{
+			"index": 207,
+			"da_username": "spiffy-neko",
+			"pd_username": "spiffyneko",
+			"baubles": 970,
+			"da_items": 3,
+			"pd_items": 4
+		},
+		{
+			"index": 208,
+			"da_username": "spiretdoom",
+			"pd_username": "spiretdoom",
+			"baubles": 1960,
+			"da_items": 14,
+			"pd_items": 95
+		},
+		{
+			"index": 209,
+			"da_username": "squeekleen2",
+			"pd_username": "squeekleen2",
+			"baubles": 8353,
+			"da_items": 62,
+			"pd_items": 200
+		},
+		{
+			"index": 210,
+			"da_username": "deadove",
+			"pd_username": "starchaser",
+			"baubles": 10769,
+			"da_items": 27,
+			"pd_items": 110
+		},
+		{
+			"index": 211,
+			"da_username": "stardestiny24",
+			"pd_username": "stardestiny",
+			"baubles": 13503,
+			"da_items": 432,
+			"pd_items": 579
+		},
+		{
+			"index": 212,
+			"da_username": "sulosointu\n/ cittyy",
+			"pd_username": "sulosointu",
+			"baubles": 0,
+			"da_items": 149,
+			"pd_items": 18
+		},
+		{
+			"index": 213,
+			"da_username": "tamashii-cs",
+			"pd_username": "tamago-shii",
+			"baubles": 700,
+			"da_items": 22,
+			"pd_items": 38
+		},
+		{
+			"index": 214,
+			"da_username": "altrados",
+			"pd_username": "techturtle",
+			"baubles": 7856,
+			"da_items": 178,
+			"pd_items": 227
+		},
+		{
+			"index": 215,
+			"da_username": "the-kayfox",
+			"pd_username": "the-kayfox",
+			"baubles": 5098,
+			"da_items": 295,
+			"pd_items": 491
+		},
+		{
+			"index": 216,
+			"da_username": "molkot",
+			"pd_username": "thirddivision",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 5
+		},
+		{
+			"index": 217,
+			"da_username": "thlyatara",
+			"pd_username": "thlyatara",
+			"baubles": 0,
+			"da_items": 26,
+			"pd_items": 22
+		},
+		{
+			"index": 218,
+			"da_username": "thunderremix8",
+			"pd_username": "thunderremix8",
+			"baubles": 3120,
+			"da_items": 50,
+			"pd_items": 222
+		},
+		{
+			"index": 219,
+			"da_username": "tielie135",
+			"pd_username": "tielie135",
+			"baubles": 2763,
+			"da_items": 202,
+			"pd_items": 248
+		},
+		{
+			"index": 220,
+			"da_username": "timidbutler",
+			"pd_username": "timidbutler",
+			"baubles": 6025,
+			"da_items": 426,
+			"pd_items": 900
+		},
+		{
+			"index": 221,
+			"da_username": "tophatgoat/\ngoatarpg",
+			"pd_username": "tophatgoat",
+			"baubles": 0,
+			"da_items": 402,
+			"pd_items": 11
+		},
+		{
+			"index": 222,
+			"da_username": "trash-king",
+			"pd_username": "trashking",
+			"baubles": 1050,
+			"da_items": 12,
+			"pd_items": 14
+		},
+		{
+			"index": 223,
+			"da_username": "tsonianfieldsranch",
+			"pd_username": "tsonianfieldsranch",
+			"baubles": 4058,
+			"da_items": 11,
+			"pd_items": 20
+		},
+		{
+			"index": 224,
+			"da_username": "tuxedocatstuff",
+			"pd_username": "tuxedocatstuff",
+			"baubles": 5,
+			"da_items": 277,
+			"pd_items": 594
+		},
+		{
+			"index": 225,
+			"da_username": "twimper",
+			"pd_username": "twimper",
+			"baubles": 5694,
+			"da_items": 757,
+			"pd_items": 1002
+		},
+		{
+			"index": 226,
+			"da_username": "guwinevere",
+			"pd_username": "ulimaatissaq",
+			"baubles": 1000,
+			"da_items": 9,
+			"pd_items": 13
+		},
+		{
+			"index": 227,
+			"da_username": "theunisieppari",
+			"pd_username": "unirosvo",
+			"baubles": 6521,
+			"da_items": 162,
+			"pd_items": 270
+		},
+		{
+			"index": 228,
+			"da_username": "vampyrowo",
+			"pd_username": "vampyrowo",
+			"baubles": 3250,
+			"da_items": 52,
+			"pd_items": 62
+		},
+		{
+			"index": 229,
+			"da_username": "verscilith",
+			"pd_username": "verscilith",
+			"baubles": 18885,
+			"da_items": 598,
+			"pd_items": 900
+		},
+		{
+			"index": 230,
+			"da_username": "vilevicky",
+			"pd_username": "vilevicky",
+			"baubles": 1700,
+			"da_items": 53,
+			"pd_items": 221
+		},
+		{
+			"index": 231,
+			"da_username": "minaraikikibot",
+			"pd_username": "viridiankestrel",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 8
+		},
+		{
+			"index": 232,
+			"da_username": "visceralluster",
+			"pd_username": "visceralluster",
+			"baubles": 2620,
+			"da_items": 106,
+			"pd_items": 166
+		},
+		{
+			"index": 233,
+			"da_username": "voidtech",
+			"pd_username": "voidtech",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 5
+		},
+		{
+			"index": 234,
+			"da_username": "starrlight-stables",
+			"pd_username": "vyraal",
+			"baubles": 400,
+			"da_items": 17,
+			"pd_items": 54
+		},
+		{
+			"index": 235,
+			"da_username": "rosefirst",
+			"pd_username": "wanderingflight",
+			"baubles": 1000,
+			"da_items": 8,
+			"pd_items": 8
+		},
+		{
+			"index": 236,
+			"da_username": "barujiina",
+			"pd_username": "weavile",
+			"baubles": 8285,
+			"da_items": 129,
+			"pd_items": 224
+		},
+		{
+			"index": 237,
+			"da_username": "wolfdog127",
+			"pd_username": "wolfdog127",
+			"baubles": 3015,
+			"da_items": 18,
+			"pd_items": 20
+		},
+		{
+			"index": 238,
+			"da_username": "wolfsroar18",
+			"pd_username": "wolfsroar",
+			"baubles": 21643,
+			"da_items": 129,
+			"pd_items": 218
+		},
+		{
+			"index": 239,
+			"da_username": "wolverrot",
+			"pd_username": "wolverrot",
+			"baubles": 10584,
+			"da_items": 91,
+			"pd_items": 147
+		},
+		{
+			"index": 240,
+			"da_username": "xialthia",
+			"pd_username": "xialthia",
+			"baubles": 0,
+			"da_items": 92,
+			"pd_items": 110
+		},
+		{
+			"index": 241,
+			"da_username": "xtsunami-arpgx",
+			"pd_username": "xtsunami-arpgx",
+			"baubles": 6500,
+			"da_items": 36,
+			"pd_items": 40
+		},
+		{
+			"index": 242,
+			"da_username": "dartingdragon-arpg",
+			"pd_username": "xxdartingdragonsxx",
+			"baubles": 1850,
+			"da_items": 105,
+			"pd_items": 133
+		},
+		{
+			"index": 243,
+			"da_username": "izemora",
+			"pd_username": "zal-baur",
+			"baubles": 7840,
+			"da_items": 98,
+			"pd_items": 114
+		},
+		{
+			"index": 244,
+			"da_username": "zeinjave",
+			"pd_username": "zeinjave",
+			"baubles": 14530,
+			"da_items": 117,
+			"pd_items": 476
+		},
+		{
+			"index": 245,
+			"da_username": "zentok",
+			"pd_username": "zentok",
+			"baubles": 13360,
+			"da_items": 293,
+			"pd_items": 647
+		},
+		{
+			"index": 246,
+			"da_username": "aerophoinix",
+			"pd_username": "aerophoinix",
+			"baubles": 0,
+			"da_items": 466,
+			"pd_items": 0
+		},
+		{
+			"index": 247,
+			"da_username": "agrizian",
+			"pd_username": "agrizian",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 248,
+			"da_username": "aidenhighope",
+			"pd_username": "aidenhighope",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 249,
+			"da_username": "altaica",
+			"pd_username": "altaica",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 250,
+			"da_username": "amurie",
+			"pd_username": "amurie",
+			"baubles": 0,
+			"da_items": 50,
+			"pd_items": 0
+		},
+		{
+			"index": 251,
+			"da_username": "anigames01",
+			"pd_username": "anigames01",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 252,
+			"da_username": "aprehistoricsoul",
+			"pd_username": "aprehistoricsoul",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 253,
+			"da_username": "ari-woof",
+			"pd_username": "ari-woof",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 254,
+			"da_username": "asmodian-owl",
+			"pd_username": "asmodian-owl",
+			"baubles": 0,
+			"da_items": 203,
+			"pd_items": 0
+		},
+		{
+			"index": 255,
+			"da_username": "bagelcat",
+			"pd_username": "t-bagel",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 256,
+			"da_username": "bendustkas",
+			"pd_username": "bendustkas",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 257,
+			"da_username": "blackmorre",
+			"pd_username": "blackmore",
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 258,
+			"da_username": "bluepandaaah",
+			"pd_username": "bluepandaaah",
+			"baubles": 0,
+			"da_items": 82,
+			"pd_items": 0
+		},
+		{
+			"index": 259,
+			"da_username": "bradachii",
+			"pd_username": "hyenai",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 260,
+			"da_username": "calamityfortune",
+			"pd_username": "wyrm",
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 261,
+			"da_username": "chaokievery",
+			"pd_username": "chaokievery",
+			"baubles": 0,
+			"da_items": 67,
+			"pd_items": 0
+		},
+		{
+			"index": 262,
+			"da_username": "cheshiretails",
+			"pd_username": "cheshiretails",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 263,
+			"da_username": "chickenblitz13",
+			"pd_username": "chickenblitz",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 264,
+			"da_username": "clickbaitart",
+			"pd_username": "clickbaitart",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 265,
+			"da_username": "clowncalling",
+			"pd_username": "deathfain",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 266,
+			"da_username": "coxcon",
+			"pd_username": "coxcon",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 267,
+			"da_username": "crazyhorselover345",
+			"pd_username": "lunaamina",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 268,
+			"da_username": "dheyline",
+			"pd_username": "dheyline",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 269,
+			"da_username": "dorosaury",
+			"pd_username": "dorosauryarpg",
+			"baubles": 0,
+			"da_items": 32,
+			"pd_items": 0
+		},
+		{
+			"index": 270,
+			"da_username": "doveless",
+			"pd_username": "doveless",
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 271,
+			"da_username": "dragoline",
+			"pd_username": "dragoline",
+			"baubles": 0,
+			"da_items": 44,
+			"pd_items": 0
+		},
+		{
+			"index": 272,
+			"da_username": "drekfury",
+			"pd_username": "drekfury",
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 273,
+			"da_username": "dying-here",
+			"pd_username": "dyinghere",
+			"baubles": 0,
+			"da_items": 70,
+			"pd_items": 0
+		},
+		{
+			"index": 274,
+			"da_username": "edgeson",
+			"pd_username": "edgeson",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 275,
+			"da_username": "efaquietshadow",
+			"pd_username": "efaquietshadow",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 276,
+			"da_username": "emeraldnightmare",
+			"pd_username": "emeraldnightmare",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 277,
+			"da_username": "englivesandzero",
+			"pd_username": "englivesandzero",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 278,
+			"da_username": "enkue",
+			"pd_username": "enkue",
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 0
+		},
+		{
+			"index": 279,
+			"da_username": "fairixia",
+			"pd_username": "fairixia",
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 280,
+			"da_username": "fallenfromstars",
+			"pd_username": "parallaxtheorem",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 281,
+			"da_username": "fallingfirex",
+			"pd_username": "fallingfirex",
+			"baubles": 0,
+			"da_items": 34,
+			"pd_items": 0
+		},
+		{
+			"index": 282,
+			"da_username": "false-paradoxes",
+			"pd_username": "falseparadoxes",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 283,
+			"da_username": "familyfriend",
+			"pd_username": "familyfriend",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 284,
+			"da_username": "feral-ringo-zebra",
+			"pd_username": "feral-ringo-zebra",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 285,
+			"da_username": "firefly1332",
+			"pd_username": "shadyhoneyseeker",
+			"baubles": 0,
+			"da_items": 38,
+			"pd_items": 0
+		},
+		{
+			"index": 286,
+			"da_username": "floofyowl",
+			"pd_username": "floofyowl",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 287,
+			"da_username": "frozedlight",
+			"pd_username": "frozedlight",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 288,
+			"da_username": "garsheen",
+			"pd_username": "garsheen",
+			"baubles": 0,
+			"da_items": 24,
+			"pd_items": 0
+		},
+		{
+			"index": 289,
+			"da_username": "gbot13",
+			"pd_username": "gbot13",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 290,
+			"da_username": "ghostcat476",
+			"pd_username": "ghostcat476",
+			"baubles": 0,
+			"da_items": 43,
+			"pd_items": 0
+		},
+		{
+			"index": 291,
+			"da_username": "glhayslett",
+			"pd_username": "quilliraven",
+			"baubles": 0,
+			"da_items": 14,
+			"pd_items": 0
+		},
+		{
+			"index": 292,
+			"da_username": "hailthedragonmaster",
+			"pd_username": "emordnilap",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 293,
+			"da_username": "haniarpg /\nmakienzie",
+			"pd_username": "haniaprg",
+			"baubles": 0,
+			"da_items": 46,
+			"pd_items": 0
+		},
+		{
+			"index": 294,
+			"da_username": "horse42889",
+			"pd_username": "dirtyramen",
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 295,
+			"da_username": "iestrade",
+			"pd_username": "tonystark",
+			"baubles": 0,
+			"da_items": 30,
+			"pd_items": 0
+		},
+		{
+			"index": 296,
+			"da_username": "ihmislehma",
+			"pd_username": "ihmislehma",
+			"baubles": 0,
+			"da_items": 389,
+			"pd_items": 0
+		},
+		{
+			"index": 297,
+			"da_username": "ilexlio",
+			"pd_username": "ilexlio",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 298,
+			"da_username": "inkcess",
+			"pd_username": "inkcess",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 299,
+			"da_username": "junasgvol",
+			"pd_username": "junasgvol",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 300,
+			"da_username": "junoniathesilkwing",
+			"pd_username": "junoniathesilkwing",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 301,
+			"da_username": "kalik-ing-away",
+			"pd_username": "kalik-ing-away",
+			"baubles": 0,
+			"da_items": 52,
+			"pd_items": 0
+		},
+		{
+			"index": 302,
+			"da_username": "kami-o-kami",
+			"pd_username": "kami-o-kami",
+			"baubles": 0,
+			"da_items": 89,
+			"pd_items": 0
+		},
+		{
+			"index": 303,
+			"da_username": "kassumi-7921",
+			"pd_username": "kassumi-7921",
+			"baubles": 0,
+			"da_items": 1516,
+			"pd_items": 0
+		},
+		{
+			"index": 304,
+			"da_username": "kotoadventures",
+			"pd_username": "kotoadventures",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 305,
+			"da_username": "kyaththedreamworker\n/ alleyofdaydreamers",
+			"pd_username": "kyaththe\ndreamworker",
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 306,
+			"da_username": "liktar",
+			"pd_username": "liktar",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 307,
+			"da_username": "littierazzledazzle",
+			"pd_username": "littierazzledazzle",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 308,
+			"da_username": "littlelibra-xiii",
+			"pd_username": "mostlystars",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 309,
+			"da_username": "lunakirran",
+			"pd_username": "lunakirran",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 310,
+			"da_username": "m-adking",
+			"pd_username": "m-adking",
+			"baubles": 0,
+			"da_items": 43,
+			"pd_items": 0
+		},
+		{
+			"index": 311,
+			"da_username": "marcieiia",
+			"pd_username": "marciella",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 312,
+			"da_username": "mayasacha",
+			"pd_username": "mayasacha",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 313,
+			"da_username": "michatah",
+			"pd_username": "michatah",
+			"baubles": 0,
+			"da_items": 26,
+			"pd_items": 0
+		},
+		{
+			"index": 314,
+			"da_username": "miss-jaqueline",
+			"pd_username": "miss-jaqueline",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 315,
+			"da_username": "mizie-wolf",
+			"pd_username": "mizie",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 316,
+			"da_username": "nemenos",
+			"pd_username": "nemenos",
+			"baubles": 0,
+			"da_items": 30,
+			"pd_items": 0
+		},
+		{
+			"index": 317,
+			"da_username": "neochaoticproxy",
+			"pd_username": "vulcorisfox",
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 318,
+			"da_username": "nettle-bee",
+			"pd_username": "nettle-bee",
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 319,
+			"da_username": "newvoh",
+			"pd_username": "samhwain",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 320,
+			"da_username": "nightmaregraphics",
+			"pd_username": "nightmare",
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 321,
+			"da_username": "nigh1shadow",
+			"pd_username": "nightshadow",
+			"baubles": 0,
+			"da_items": 14,
+			"pd_items": 0
+		},
+		{
+			"index": 322,
+			"da_username": "ninspire",
+			"pd_username": "ninspire",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 323,
+			"da_username": "noxeorn",
+			"pd_username": "noxeorn",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 324,
+			"da_username": "otterbird",
+			"pd_username": "otterbird",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 325,
+			"da_username": "oxygen-o",
+			"pd_username": "oxygen-o",
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 326,
+			"da_username": "paintset",
+			"pd_username": "paintset",
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 327,
+			"da_username": "paper0wls",
+			"pd_username": "paper0wls",
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 328,
+			"da_username": "paperbeans",
+			"pd_username": "paperbeans",
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 329,
+			"da_username": "pawskies",
+			"pd_username": "pawskies",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 330,
+			"da_username": "peachsodaas",
+			"pd_username": "peachsodaas",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 331,
+			"da_username": "pictheas",
+			"pd_username": "pictheas",
+			"baubles": 0,
+			"da_items": 25,
+			"pd_items": 0
+		},
+		{
+			"index": 332,
+			"da_username": "piipiin",
+			"pd_username": "pippin",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 333,
+			"da_username": "pipster3",
+			"pd_username": "pipster3",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 334,
+			"da_username": "priestessshizuka",
+			"pd_username": "priestessshizuka",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 335,
+			"da_username": "rainbowpaint15",
+			"pd_username": "pastelgothine",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 336,
+			"da_username": "ravenpride222",
+			"pd_username": "ravenpride222",
+			"baubles": 0,
+			"da_items": 401,
+			"pd_items": 0
+		},
+		{
+			"index": 337,
+			"da_username": "rex-n-lux",
+			"pd_username": "rex-n-lux",
+			"baubles": 0,
+			"da_items": 37,
+			"pd_items": 0
+		},
+		{
+			"index": 338,
+			"da_username": "riazey",
+			"pd_username": "riazey",
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 339,
+			"da_username": "rocheryn",
+			"pd_username": "rocheryn",
+			"baubles": 0,
+			"da_items": 18,
+			"pd_items": 0
+		},
+		{
+			"index": 340,
+			"da_username": "sammythestorm",
+			"pd_username": "sammythestorm",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 341,
+			"da_username": "shadowbat-art",
+			"pd_username": "shadowbat-art",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 342,
+			"da_username": "shadowbluehusky",
+			"pd_username": "shadowbluehusky",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 343,
+			"da_username": "shadowintheoblivion",
+			"pd_username": "shadowintheoblivion",
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 344,
+			"da_username": "shetheropod",
+			"pd_username": "destroire",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 345,
+			"da_username": "silverrain0",
+			"pd_username": "hailstormdeath",
+			"baubles": 0,
+			"da_items": 43,
+			"pd_items": 0
+		},
+		{
+			"index": 346,
+			"da_username": "solkarofravnica",
+			"pd_username": "solkarofravnica",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 347,
+			"da_username": "spaciousrooms",
+			"pd_username": "spaciousrooms",
+			"baubles": 0,
+			"da_items": 37,
+			"pd_items": 0
+		},
+		{
+			"index": 348,
+			"da_username": "squidmage",
+			"pd_username": "squidmage",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 349,
+			"da_username": "star-nerd",
+			"pd_username": "swushi",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 350,
+			"da_username": "starryfeathers",
+			"pd_username": "starryfeathers",
+			"baubles": 0,
+			"da_items": 16,
+			"pd_items": 0
+		},
+		{
+			"index": 351,
+			"da_username": "startail-studios",
+			"pd_username": "startail-studios",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 352,
+			"da_username": "stormsoulseeker",
+			"pd_username": "stormsoulseeker",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 353,
+			"da_username": "sugaritch",
+			"pd_username": "sugaritch",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 354,
+			"da_username": "sumashira",
+			"pd_username": "sumashira",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 355,
+			"da_username": "swampspirit",
+			"pd_username": "swampspirit",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 356,
+			"da_username": "syllecia",
+			"pd_username": "syllecia",
+			"baubles": 0,
+			"da_items": 47,
+			"pd_items": 0
+		},
+		{
+			"index": 357,
+			"da_username": "tanuki-hhh",
+			"pd_username": "mayyybemay",
+			"baubles": 0,
+			"da_items": 23,
+			"pd_items": 0
+		},
+		{
+			"index": 358,
+			"da_username": "templado",
+			"pd_username": "templado-rex",
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 359,
+			"da_username": "the wolvenestates",
+			"pd_username": "thewolvenestates",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 360,
+			"da_username": "the-doldrums",
+			"pd_username": "hyenaglitch",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 361,
+			"da_username": "thedexterminator",
+			"pd_username": "dexterminator",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 362,
+			"da_username": "thelegend27xvxv",
+			"pd_username": "thelegend27xvxv",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 363,
+			"da_username": "themunstacat",
+			"pd_username": "themunstacat",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 364,
+			"da_username": "twistedlunatic",
+			"pd_username": "twistedlunatic",
+			"baubles": 0,
+			"da_items": 19,
+			"pd_items": 0
+		},
+		{
+			"index": 365,
+			"da_username": "1horsegirl2003",
+			"pd_username": "petrichor",
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 366,
+			"da_username": "unfeelingmetal5",
+			"pd_username": "unfeelingmetal5",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 367,
+			"da_username": "valentinesire",
+			"pd_username": "valentinesire",
+			"baubles": 0,
+			"da_items": 558,
+			"pd_items": 0
+		},
+		{
+			"index": 368,
+			"da_username": "valgornia",
+			"pd_username": "valgornia",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 369,
+			"da_username": "vomltbreath",
+			"pd_username": "vomltbreath",
+			"baubles": 0,
+			"da_items": 398,
+			"pd_items": 0
+		},
+		{
+			"index": 370,
+			"da_username": "w0lfartz",
+			"pd_username": "w0lfartz",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 371,
+			"da_username": "weeburdoodles",
+			"pd_username": "weeburdoodles",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 372,
+			"da_username": "whirlawind",
+			"pd_username": "whirlawind",
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 373,
+			"da_username": "wildtale",
+			"pd_username": "wildtale",
+			"baubles": 0,
+			"da_items": 567,
+			"pd_items": 0
+		},
+		{
+			"index": 374,
+			"da_username": "wolfyexpress",
+			"pd_username": "wolfyexpress",
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 375,
+			"da_username": "xkiriwolfx",
+			"pd_username": "xkiriwolfx",
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 376,
+			"da_username": "yellow--knife",
+			"pd_username": "yellow-knife",
+			"baubles": 0,
+			"da_items": 22,
+			"pd_items": 0
+		},
+		{
+			"index": 377,
+			"da_username": "yoshitsune06-15",
+			"pd_username": "yoshitsune06-15",
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 378,
+			"da_username": "zakjaar",
+			"pd_username": "zakjaar",
+			"baubles": 0,
+			"da_items": 36,
+			"pd_items": 0
+		},
+		{
+			"index": 379,
+			"da_username": "zokerfel",
+			"pd_username": "zokerfel",
+			"baubles": 0,
+			"da_items": 86,
+			"pd_items": 0
+		},
+		{
+			"index": 380,
+			"da_username": "waittiz",
+			"pd_username": "waittiz",
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 381,
+			"da_username": "10animallover10",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 37,
+			"pd_items": 0
+		},
+		{
+			"index": 382,
+			"da_username": "2-storm-broken-wings",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 54,
+			"pd_items": 0
+		},
+		{
+			"index": 383,
+			"da_username": "7661",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 384,
+			"da_username": "9nails",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 385,
+			"da_username": "ace574",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 386,
+			"da_username": "acember",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 387,
+			"da_username": "alcomolic",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 388,
+			"da_username": "aleterne",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 389,
+			"da_username": "amadoodles",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 390,
+			"da_username": "amaranthinerain",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 391,
+			"da_username": "amserpand",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 392,
+			"da_username": "an1k3t0s",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 393,
+			"da_username": "angeliquehessler",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 394,
+			"da_username": "ar7h",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 395,
+			"da_username": "arawka",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 396,
+			"da_username": "arcticthefoxwing",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 17,
+			"pd_items": 0
+		},
+		{
+			"index": 397,
+			"da_username": "arinatira",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 398,
+			"da_username": "artha-demon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 399,
+			"da_username": "atrocias",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 400,
+			"da_username": "auriole",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 401,
+			"da_username": "ausgoth",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 402,
+			"da_username": "auspicious-cloud",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 26,
+			"pd_items": 0
+		},
+		{
+			"index": 403,
+			"da_username": "autumnantler",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 404,
+			"da_username": "avastlavas",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 405,
+			"da_username": "aviatorcid",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 98,
+			"pd_items": 0
+		},
+		{
+			"index": 406,
+			"da_username": "ayuukuro",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 407,
+			"da_username": "azuregryphon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 139,
+			"pd_items": 0
+		},
+		{
+			"index": 408,
+			"da_username": "azuresoleil",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 409,
+			"da_username": "b-theartist",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 410,
+			"da_username": "badboylover94",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 411,
+			"da_username": "badlydrawndragons",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 412,
+			"da_username": "becgnet",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 0
+		},
+		{
+			"index": 413,
+			"da_username": "beespace",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 414,
+			"da_username": "bellum-letale",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 21,
+			"pd_items": 0
+		},
+		{
+			"index": 415,
+			"da_username": "birdiski",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 416,
+			"da_username": "blackfireibex",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 417,
+			"da_username": "blueefall",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 28,
+			"pd_items": 0
+		},
+		{
+			"index": 418,
+			"da_username": "brimk",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 419,
+			"da_username": "burythemaid",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 420,
+			"da_username": "butlervicki",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 421,
+			"da_username": "callunadraconis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 422,
+			"da_username": "cantbreakthis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 423,
+			"da_username": "cappuccinodragon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 424,
+			"da_username": "caseyarpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 425,
+			"da_username": "cecinder",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 426,
+			"da_username": "central-brazil",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 427,
+			"da_username": "certhewitch",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 428,
+			"da_username": "cessea",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 28,
+			"pd_items": 0
+		},
+		{
+			"index": 429,
+			"da_username": "chaluny /\npigeon-blue",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 134,
+			"pd_items": 0
+		},
+		{
+			"index": 430,
+			"da_username": "chaosfleck299",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 431,
+			"da_username": "charakyarpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 432,
+			"da_username": "charliebear442211",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 433,
+			"da_username": "chiiryu",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 434,
+			"da_username": "chimericect",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 145,
+			"pd_items": 0
+		},
+		{
+			"index": 435,
+			"da_username": "chiropraptor\n/ kelpiepie",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 436,
+			"da_username": "chrissybird",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 437,
+			"da_username": "ciameth",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 438,
+			"da_username": "ciy-chan",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 38,
+			"pd_items": 0
+		},
+		{
+			"index": 439,
+			"da_username": "cloudstar-wolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 254,
+			"pd_items": 0
+		},
+		{
+			"index": 440,
+			"da_username": "cloverfield2001",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 441,
+			"da_username": "coalthehellhound",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 442,
+			"da_username": "coastharbour",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 81,
+			"pd_items": 0
+		},
+		{
+			"index": 443,
+			"da_username": "colorfulhoovednights",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 444,
+			"da_username": "crankycobra",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 445,
+			"da_username": "crocuta-king",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 446,
+			"da_username": "crookedsanity",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 17,
+			"pd_items": 0
+		},
+		{
+			"index": 447,
+			"da_username": "cryptid-horror",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 107,
+			"pd_items": 0
+		},
+		{
+			"index": 448,
+			"da_username": "crystal-blackpaws",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 23,
+			"pd_items": 0
+		},
+		{
+			"index": 449,
+			"da_username": "cutepup",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 450,
+			"da_username": "cyliph",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 451,
+			"da_username": "cyndergirlxp",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 452,
+			"da_username": "dardargnan",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 61,
+			"pd_items": 0
+		},
+		{
+			"index": 453,
+			"da_username": "darkmagianwyngro",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 454,
+			"da_username": "darudedragon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 455,
+			"da_username": "dawnofthetigress",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 456,
+			"da_username": "deertine",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 457,
+			"da_username": "desert-wyvern",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 20,
+			"pd_items": 0
+		},
+		{
+			"index": 458,
+			"da_username": "destinydayze",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 459,
+			"da_username": "diseasedking\n/ doveless",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 460,
+			"da_username": "dracogirl93",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 461,
+			"da_username": "draginraptor",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 462,
+			"da_username": "dragon-desu",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 463,
+			"da_username": "dragonpunk15",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 464,
+			"da_username": "dragonusprime",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 19,
+			"pd_items": 0
+		},
+		{
+			"index": 465,
+			"da_username": "dragotan",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 466,
+			"da_username": "drakynwyrm",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 213,
+			"pd_items": 0
+		},
+		{
+			"index": 467,
+			"da_username": "dweebasaurus-rex",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 468,
+			"da_username": "e-ndangered",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 32,
+			"pd_items": 0
+		},
+		{
+			"index": 469,
+			"da_username": "ecchoakuma",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 470,
+			"da_username": "ecostark",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 471,
+			"da_username": "eduardathewolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 472,
+			"da_username": "eerien00dle",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 473,
+			"da_username": "elekses",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 474,
+			"da_username": "emohat",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 475,
+			"da_username": "empluvie",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 476,
+			"da_username": "en-zu",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 477,
+			"da_username": "erujayy",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 478,
+			"da_username": "eternalgoddess",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 479,
+			"da_username": "etherealdeer",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 480,
+			"da_username": "eviltaki",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 481,
+			"da_username": "experimentor-iblis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 482,
+			"da_username": "fancypigeon-arpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 483,
+			"da_username": "ferretclover",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 26,
+			"pd_items": 0
+		},
+		{
+			"index": 484,
+			"da_username": "fishedfight",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 485,
+			"da_username": "flibberteegibbet",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 486,
+			"da_username": "fluffyconure",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 487,
+			"da_username": "foxstar703",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 488,
+			"da_username": "free-rabies",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 489,
+			"da_username": "frosthunk",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 490,
+			"da_username": "g0ldenguts",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 491,
+			"da_username": "gabrielsknife",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 492,
+			"da_username": "gamiibun",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 493,
+			"da_username": "ghostheel",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 494,
+			"da_username": "ghoulishlich",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 31,
+			"pd_items": 0
+		},
+		{
+			"index": 495,
+			"da_username": "giieko",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 496,
+			"da_username": "ginger-love",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 497,
+			"da_username": "glacialfalls",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 22,
+			"pd_items": 0
+		},
+		{
+			"index": 498,
+			"da_username": "glesra",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 17,
+			"pd_items": 0
+		},
+		{
+			"index": 499,
+			"da_username": "gorging",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 500,
+			"da_username": "gouldaminchen",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 501,
+			"da_username": "graywinter",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 502,
+			"da_username": "greenpidge",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 503,
+			"da_username": "guduler",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 112,
+			"pd_items": 0
+		},
+		{
+			"index": 504,
+			"da_username": "gunhorse",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 40,
+			"pd_items": 0
+		},
+		{
+			"index": 505,
+			"da_username": "hail-art",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 31,
+			"pd_items": 0
+		},
+		{
+			"index": 506,
+			"da_username": "handsomehyperion",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 507,
+			"da_username": "hawkandcoyote",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 508,
+			"da_username": "hayleywolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 509,
+			"da_username": "hognosedeazel",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 510,
+			"da_username": "holies",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 511,
+			"da_username": "honey-mushroom",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 512,
+			"da_username": "hoothoot44",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 52,
+			"pd_items": 0
+		},
+		{
+			"index": 513,
+			"da_username": "hoowy",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 18,
+			"pd_items": 0
+		},
+		{
+			"index": 514,
+			"da_username": "humanservantyume",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 515,
+			"da_username": "ibx3",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 516,
+			"da_username": "incomingtrouble",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 517,
+			"da_username": "infel-phira",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 28,
+			"pd_items": 0
+		},
+		{
+			"index": 518,
+			"da_username": "inkmonstruo",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 0
+		},
+		{
+			"index": 519,
+			"da_username": "inspiredbybirds",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 52,
+			"pd_items": 0
+		},
+		{
+			"index": 520,
+			"da_username": "iron-hare",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 521,
+			"da_username": "islandluau",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 31,
+			"pd_items": 0
+		},
+		{
+			"index": 522,
+			"da_username": "isyntarsus",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 523,
+			"da_username": "iwendigo",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 524,
+			"da_username": "jei9",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 525,
+			"da_username": "justt-k",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 526,
+			"da_username": "kagetora4ever",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 527,
+			"da_username": "kaisergeier",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 528,
+			"da_username": "kalfiez",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 48,
+			"pd_items": 0
+		},
+		{
+			"index": 529,
+			"da_username": "kalinaperegryph",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 530,
+			"da_username": "kattington",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 17,
+			"pd_items": 0
+		},
+		{
+			"index": 531,
+			"da_username": "kayosa",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 532,
+			"da_username": "keledry1",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 38,
+			"pd_items": 0
+		},
+		{
+			"index": 533,
+			"da_username": "kelyias",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 534,
+			"da_username": "khaleesikiyiyawolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 34,
+			"pd_items": 0
+		},
+		{
+			"index": 535,
+			"da_username": "khasuri",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 536,
+			"da_username": "khunknc",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 537,
+			"da_username": "khyterra",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 538,
+			"da_username": "killer-kame",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 539,
+			"da_username": "kittybladepaw",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 16,
+			"pd_items": 0
+		},
+		{
+			"index": 540,
+			"da_username": "klutzywarlock-art /\ntheanxiousshadow",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 83,
+			"pd_items": 0
+		},
+		{
+			"index": 541,
+			"da_username": "knightowl /\nwolfie-forever",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 135,
+			"pd_items": 0
+		},
+		{
+			"index": 542,
+			"da_username": "kokuarpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 543,
+			"da_username": "koroblin",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 544,
+			"da_username": "korria1234",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 545,
+			"da_username": "kry-arpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 546,
+			"da_username": "kryillic",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 547,
+			"da_username": "kubari",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 22,
+			"pd_items": 0
+		},
+		{
+			"index": 548,
+			"da_username": "kuroya-ken",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 64,
+			"pd_items": 0
+		},
+		{
+			"index": 549,
+			"da_username": "kylewolfarts",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 550,
+			"da_username": "lairai",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 551,
+			"da_username": "laylataydragon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 552,
+			"da_username": "lei-leiurus",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 553,
+			"da_username": "lemonade4jessa",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 554,
+			"da_username": "leoclare",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 555,
+			"da_username": "li-lii",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 556,
+			"da_username": "lilgrimmlin",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 557,
+			"da_username": "liseth-stryx",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 14,
+			"pd_items": 0
+		},
+		{
+			"index": 558,
+			"da_username": "litleocub0722",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 559,
+			"da_username": "ll-solare-ll",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 560,
+			"da_username": "lokiiish",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 18,
+			"pd_items": 0
+		},
+		{
+			"index": 561,
+			"da_username": "lovingsealpup",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 562,
+			"da_username": "lucid-e",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 563,
+			"da_username": "lyddekeri",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 564,
+			"da_username": "lyrak",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 565,
+			"da_username": "mactireban92",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 566,
+			"da_username": "mamafoxi",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 567,
+			"da_username": "mask-of-science",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 71,
+			"pd_items": 0
+		},
+		{
+			"index": 568,
+			"da_username": "megakyurem4188",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 569,
+			"da_username": "memosniceside",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 570,
+			"da_username": "memuii",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 484,
+			"pd_items": 0
+		},
+		{
+			"index": 571,
+			"da_username": "monochromefadv",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 572,
+			"da_username": "mookiethemonster",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 573,
+			"da_username": "moonlightwalk",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 574,
+			"da_username": "mortimerlestrange",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 575,
+			"da_username": "muscah",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 576,
+			"da_username": "n00clear",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 18,
+			"pd_items": 0
+		},
+		{
+			"index": 577,
+			"da_username": "nagallow",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 578,
+			"da_username": "nanorat",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 38,
+			"pd_items": 0
+		},
+		{
+			"index": 579,
+			"da_username": "naranda1",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 580,
+			"da_username": "nativewolf330",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 49,
+			"pd_items": 0
+		},
+		{
+			"index": 581,
+			"da_username": "nemaroony",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 73,
+			"pd_items": 0
+		},
+		{
+			"index": 582,
+			"da_username": "neoshadowwolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 583,
+			"da_username": "northernecho",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 193,
+			"pd_items": 0
+		},
+		{
+			"index": 584,
+			"da_username": "northernmalagon-arpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 585,
+			"da_username": "novarin-art",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 586,
+			"da_username": "obsidian-bubble",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 587,
+			"da_username": "okaeno",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 11,
+			"pd_items": 0
+		},
+		{
+			"index": 588,
+			"da_username": "okamisusi",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 85,
+			"pd_items": 0
+		},
+		{
+			"index": 589,
+			"da_username": "onimonster",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 590,
+			"da_username": "onyxiandrake",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 38,
+			"pd_items": 0
+		},
+		{
+			"index": 591,
+			"da_username": "oreleth",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 592,
+			"da_username": "overtaenkende",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 10,
+			"pd_items": 0
+		},
+		{
+			"index": 593,
+			"da_username": "p-riince",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 594,
+			"da_username": "panyena",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 595,
+			"da_username": "parasitic-king",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 596,
+			"da_username": "penyiarwolff",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 597,
+			"da_username": "perfectkawa",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 598,
+			"da_username": "phinoxdragon",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 599,
+			"da_username": "phoenixblessing",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 600,
+			"da_username": "pumpkin-wings",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 601,
+			"da_username": "pyromantiic",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 602,
+			"da_username": "radicalstriker\n/ radventures",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 603,
+			"da_username": "rainbowfoxxy",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 604,
+			"da_username": "ravens-breath",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 605,
+			"da_username": "readneko",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 606,
+			"da_username": "redlightwolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 607,
+			"da_username": "redrubberknife",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 608,
+			"da_username": "reeds-keep",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 45,
+			"pd_items": 0
+		},
+		{
+			"index": 609,
+			"da_username": "reevees",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 610,
+			"da_username": "retro-synthwave\n/ syntharpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 611,
+			"da_username": "revska",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 612,
+			"da_username": "rexarpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 320,
+			"pd_items": 0
+		},
+		{
+			"index": 613,
+			"da_username": "rikventures",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 151,
+			"pd_items": 0
+		},
+		{
+			"index": 614,
+			"da_username": "rowan-hart /\nkuroneko-phae",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 615,
+			"da_username": "rubicon-art",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 616,
+			"da_username": "salindrai",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 5,
+			"pd_items": 0
+		},
+		{
+			"index": 617,
+			"da_username": "saphira455",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 618,
+			"da_username": "saphiraly",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 619,
+			"da_username": "sarahleiwel",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 620,
+			"da_username": "sarenidy",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 621,
+			"da_username": "sashafras",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 91,
+			"pd_items": 0
+		},
+		{
+			"index": 622,
+			"da_username": "scarlet-stripes",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 623,
+			"da_username": "shadebiohazard",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 624,
+			"da_username": "shadowtriad3",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 625,
+			"da_username": "sherriff-freyja /\ntokotasofpineridge",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 626,
+			"da_username": "shinkei-shinto",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 78,
+			"pd_items": 0
+		},
+		{
+			"index": 627,
+			"da_username": "silv8r",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 628,
+			"da_username": "silvyruu",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 629,
+			"da_username": "sinnabons",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 630,
+			"da_username": "siphiri",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 631,
+			"da_username": "snowvoice",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 632,
+			"da_username": "snowwolf213",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 633,
+			"da_username": "snowywonderland",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 634,
+			"da_username": "spople",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 635,
+			"da_username": "sqidney",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 636,
+			"da_username": "starlight-arpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 19,
+			"pd_items": 0
+		},
+		{
+			"index": 637,
+			"da_username": "starphishy",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 638,
+			"da_username": "starryeyes880",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 639,
+			"da_username": "starsight2",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 20,
+			"pd_items": 0
+		},
+		{
+			"index": 640,
+			"da_username": "stormy-the-wolf /\nstormyadventures",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 196,
+			"pd_items": 0
+		},
+		{
+			"index": 641,
+			"da_username": "sudai-shiro",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 642,
+			"da_username": "swankie",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 50,
+			"pd_items": 0
+		},
+		{
+			"index": 643,
+			"da_username": "syntharpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 644,
+			"da_username": "taimatala",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 645,
+			"da_username": "tarynsgate",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 0
+		},
+		{
+			"index": 646,
+			"da_username": "teeth-claws-and-more",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 12,
+			"pd_items": 0
+		},
+		{
+			"index": 647,
+			"da_username": "the-lady-lune",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 648,
+			"da_username": "theladyraincloud",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 649,
+			"da_username": "themauston",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 650,
+			"da_username": "theonlymeeper",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 651,
+			"da_username": "thespiltteasis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 652,
+			"da_username": "thirddivision",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 653,
+			"da_username": "thundering-horses",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 8,
+			"pd_items": 0
+		},
+		{
+			"index": 654,
+			"da_username": "toffee-tama",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 17,
+			"pd_items": 0
+		},
+		{
+			"index": 655,
+			"da_username": "tonylefruitbat",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 656,
+			"da_username": "toothyapocalypse",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 657,
+			"da_username": "tordalk",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 658,
+			"da_username": "tralayn",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 659,
+			"da_username": "trientali",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 660,
+			"da_username": "trip3of3",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 661,
+			"da_username": "tromacom",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 20,
+			"pd_items": 0
+		},
+		{
+			"index": 662,
+			"da_username": "tubachic",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 167,
+			"pd_items": 0
+		},
+		{
+			"index": 663,
+			"da_username": "tunquen",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 664,
+			"da_username": "tv-island",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 29,
+			"pd_items": 0
+		},
+		{
+			"index": 665,
+			"da_username": "twilishewolf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 666,
+			"da_username": "umbreanimatronic",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 15,
+			"pd_items": 0
+		},
+		{
+			"index": 667,
+			"da_username": "unawarew0lf",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 41,
+			"pd_items": 0
+		},
+		{
+			"index": 668,
+			"da_username": "vampiremessageninja",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 27,
+			"pd_items": 0
+		},
+		{
+			"index": 669,
+			"da_username": "varenich",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 670,
+			"da_username": "verdoleis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 30,
+			"pd_items": 0
+		},
+		{
+			"index": 671,
+			"da_username": "vesperity",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 672,
+			"da_username": "vincent-mango",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 673,
+			"da_username": "vireeart",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 298,
+			"pd_items": 0
+		},
+		{
+			"index": 674,
+			"da_username": "voiddreamkiller",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 675,
+			"da_username": "voidlich",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 676,
+			"da_username": "vortexturmoil",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 677,
+			"da_username": "vulonven",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 678,
+			"da_username": "wandering-lines",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 49,
+			"pd_items": 0
+		},
+		{
+			"index": 679,
+			"da_username": "wanderingwolverine",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 32,
+			"pd_items": 0
+		},
+		{
+			"index": 680,
+			"da_username": "waroftheshadows",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 681,
+			"da_username": "welosttheribs",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 682,
+			"da_username": "whimsicalcrystal",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 683,
+			"da_username": "whitefoxfire",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 2,
+			"pd_items": 0
+		},
+		{
+			"index": 684,
+			"da_username": "whitelupine",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 685,
+			"da_username": "willowbyrd",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 9,
+			"pd_items": 0
+		},
+		{
+			"index": 686,
+			"da_username": "windyoshi",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 687,
+			"da_username": "winterfaux",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 6,
+			"pd_items": 0
+		},
+		{
+			"index": 688,
+			"da_username": "withoutcommonsense",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 689,
+			"da_username": "wolfiish-arpg",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 13,
+			"pd_items": 0
+		},
+		{
+			"index": 690,
+			"da_username": "wolfy172",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 691,
+			"da_username": "wuuby",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 692,
+			"da_username": "wynbird",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 26,
+			"pd_items": 0
+		},
+		{
+			"index": 693,
+			"da_username": "x-enesis",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 694,
+			"da_username": "xenomnia",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 695,
+			"da_username": "xkingkurtx",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 696,
+			"da_username": "xpandyx",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 36,
+			"pd_items": 0
+		},
+		{
+			"index": 697,
+			"da_username": "xsurux",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 698,
+			"da_username": "xxcheshiresinxx",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 4,
+			"pd_items": 0
+		},
+		{
+			"index": 699,
+			"da_username": "yellowsparkle",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 19,
+			"pd_items": 0
+		},
+		{
+			"index": 700,
+			"da_username": "yourfamilydoge",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 701,
+			"da_username": "youroceaneyes",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 1,
+			"pd_items": 0
+		},
+		{
+			"index": 702,
+			"da_username": "yuuira",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 7,
+			"pd_items": 0
+		},
+		{
+			"index": 703,
+			"da_username": "zooofalexandria",
+			"pd_username": null,
+			"baubles": 0,
+			"da_items": 3,
+			"pd_items": 0
+		},
+		{
+			"index": 704,
+			"da_username": null,
+			"pd_username": "16649",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 7
+		},
+		{
+			"index": 705,
+			"da_username": null,
+			"pd_username": "aerophoenix",
+			"baubles": 15940,
+			"da_items": 0,
+			"pd_items": 577
+		},
+		{
+			"index": 706,
+			"da_username": null,
+			"pd_username": "aerotyrannus",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 707,
+			"da_username": null,
+			"pd_username": "alphastryx",
+			"baubles": 2250,
+			"da_items": 0,
+			"pd_items": 208
+		},
+		{
+			"index": 708,
+			"da_username": null,
+			"pd_username": "altered-zer0",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 709,
+			"da_username": null,
+			"pd_username": "althaiaa",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 710,
+			"da_username": null,
+			"pd_username": "amaranthinerain",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 711,
+			"da_username": null,
+			"pd_username": "amelyanna",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 28
+		},
+		{
+			"index": 712,
+			"da_username": null,
+			"pd_username": "amymist",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 713,
+			"da_username": null,
+			"pd_username": "angelcnderdream14",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 714,
+			"da_username": null,
+			"pd_username": "angelwolf1994",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 2
+		},
+		{
+			"index": 715,
+			"da_username": null,
+			"pd_username": "arcticthefoxwing",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 716,
+			"da_username": null,
+			"pd_username": "arrancar5489",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 717,
+			"da_username": null,
+			"pd_username": "arsfatalis",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 718,
+			"da_username": null,
+			"pd_username": "azthmutt",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 719,
+			"da_username": null,
+			"pd_username": "azuregryphon",
+			"baubles": 13334,
+			"da_items": 0,
+			"pd_items": 73
+		},
+		{
+			"index": 720,
+			"da_username": null,
+			"pd_username": "beemossy",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 721,
+			"da_username": null,
+			"pd_username": "benepotentia",
+			"baubles": 400,
+			"da_items": 0,
+			"pd_items": 57
+		},
+		{
+			"index": 722,
+			"da_username": null,
+			"pd_username": "birdybee",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 723,
+			"da_username": null,
+			"pd_username": "bitorrabel",
+			"baubles": 6717,
+			"da_items": 0,
+			"pd_items": 76
+		},
+		{
+			"index": 724,
+			"da_username": null,
+			"pd_username": "blackfiredeath",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 30
+		},
+		{
+			"index": 725,
+			"da_username": null,
+			"pd_username": "blackwaterbridge",
+			"baubles": 8019,
+			"da_items": 0,
+			"pd_items": 86
+		},
+		{
+			"index": 726,
+			"da_username": null,
+			"pd_username": "blackwolfranch",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 727,
+			"da_username": null,
+			"pd_username": "blogybo",
+			"baubles": 100,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 728,
+			"da_username": null,
+			"pd_username": "bluecomet5",
+			"baubles": 6018,
+			"da_items": 0,
+			"pd_items": 43
+		},
+		{
+			"index": 729,
+			"da_username": null,
+			"pd_username": "bluefor3v3r",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 730,
+			"da_username": null,
+			"pd_username": "bluscoutfloof",
+			"baubles": 11217,
+			"da_items": 0,
+			"pd_items": 27
+		},
+		{
+			"index": 731,
+			"da_username": null,
+			"pd_username": "bogusred",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 16
+		},
+		{
+			"index": 732,
+			"da_username": null,
+			"pd_username": "breezy-likes-to-rp",
+			"baubles": 890,
+			"da_items": 0,
+			"pd_items": 9
+		},
+		{
+			"index": 733,
+			"da_username": null,
+			"pd_username": "brightlights",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 734,
+			"da_username": null,
+			"pd_username": "cat-boat",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 735,
+			"da_username": null,
+			"pd_username": "catherinecreates",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 736,
+			"da_username": null,
+			"pd_username": "cayenne",
+			"baubles": 15996,
+			"da_items": 0,
+			"pd_items": 22
+		},
+		{
+			"index": 737,
+			"da_username": null,
+			"pd_username": "centiprism",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 6
+		},
+		{
+			"index": 738,
+			"da_username": null,
+			"pd_username": "certhewitch",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 43
+		},
+		{
+			"index": 739,
+			"da_username": null,
+			"pd_username": "cerythros",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 33
+		},
+		{
+			"index": 740,
+			"da_username": null,
+			"pd_username": "chabiwa",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 741,
+			"da_username": null,
+			"pd_username": "chanidae",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 33
+		},
+		{
+			"index": 742,
+			"da_username": null,
+			"pd_username": "charliebear442211",
+			"baubles": 150,
+			"da_items": 0,
+			"pd_items": 33
+		},
+		{
+			"index": 743,
+			"da_username": null,
+			"pd_username": "chasca",
+			"baubles": 1100,
+			"da_items": 0,
+			"pd_items": 83
+		},
+		{
+			"index": 744,
+			"da_username": null,
+			"pd_username": "cheetahchips",
+			"baubles": 7000,
+			"da_items": 0,
+			"pd_items": 46
+		},
+		{
+			"index": 745,
+			"da_username": null,
+			"pd_username": "chirios",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 746,
+			"da_username": null,
+			"pd_username": "coalthehellhound",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 747,
+			"da_username": null,
+			"pd_username": "convolure",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 5
+		},
+		{
+			"index": 748,
+			"da_username": null,
+			"pd_username": "cosmicgelatin",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 749,
+			"da_username": null,
+			"pd_username": "cosmicsilverowl4188",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 750,
+			"da_username": null,
+			"pd_username": "cr0wmercenary",
+			"baubles": 400,
+			"da_items": 0,
+			"pd_items": 32
+		},
+		{
+			"index": 751,
+			"da_username": null,
+			"pd_username": "crowseer",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 752,
+			"da_username": null,
+			"pd_username": "crystalitar",
+			"baubles": 2000,
+			"da_items": 0,
+			"pd_items": 36
+		},
+		{
+			"index": 753,
+			"da_username": null,
+			"pd_username": "daisysun",
+			"baubles": 5360,
+			"da_items": 0,
+			"pd_items": 95
+		},
+		{
+			"index": 754,
+			"da_username": null,
+			"pd_username": "danny-anny",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 755,
+			"da_username": null,
+			"pd_username": "dashofjupiter",
+			"baubles": 1910,
+			"da_items": 0,
+			"pd_items": 133
+		},
+		{
+			"index": 756,
+			"da_username": null,
+			"pd_username": "desertdumbass",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 757,
+			"da_username": null,
+			"pd_username": "disfordevil",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 50
+		},
+		{
+			"index": 758,
+			"da_username": null,
+			"pd_username": "dracostryx",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 759,
+			"da_username": null,
+			"pd_username": "dragnarik",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 760,
+			"da_username": null,
+			"pd_username": "dragonight1993",
+			"baubles": 3825,
+			"da_items": 0,
+			"pd_items": 22
+		},
+		{
+			"index": 761,
+			"da_username": null,
+			"pd_username": "dragontrix",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 762,
+			"da_username": null,
+			"pd_username": "dragonus-prime",
+			"baubles": 10230,
+			"da_items": 0,
+			"pd_items": 43
+		},
+		{
+			"index": 763,
+			"da_username": null,
+			"pd_username": "dragotan",
+			"baubles": 8125,
+			"da_items": 0,
+			"pd_items": 46
+		},
+		{
+			"index": 764,
+			"da_username": null,
+			"pd_username": "drao",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 765,
+			"da_username": null,
+			"pd_username": "duhditzy",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 766,
+			"da_username": null,
+			"pd_username": "eclipsemarauder",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 5
+		},
+		{
+			"index": 767,
+			"da_username": null,
+			"pd_username": "elaive",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 768,
+			"da_username": null,
+			"pd_username": "eternalfyre413",
+			"baubles": 4172,
+			"da_items": 0,
+			"pd_items": 43
+		},
+		{
+			"index": 769,
+			"da_username": null,
+			"pd_username": "evangelineevee",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 770,
+			"da_username": null,
+			"pd_username": "eveir",
+			"baubles": 1570,
+			"da_items": 0,
+			"pd_items": 39
+		},
+		{
+			"index": 771,
+			"da_username": null,
+			"pd_username": "faensi",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 772,
+			"da_username": null,
+			"pd_username": "fantasyfawkes",
+			"baubles": 345,
+			"da_items": 0,
+			"pd_items": 40
+		},
+		{
+			"index": 773,
+			"da_username": null,
+			"pd_username": "fearingfenris",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 774,
+			"da_username": null,
+			"pd_username": "fimukisza",
+			"baubles": 10129,
+			"da_items": 0,
+			"pd_items": 132
+		},
+		{
+			"index": 775,
+			"da_username": null,
+			"pd_username": "fishyweirdo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 776,
+			"da_username": null,
+			"pd_username": "foreverfrosty",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 777,
+			"da_username": null,
+			"pd_username": "frenched-pig",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 778,
+			"da_username": null,
+			"pd_username": "genos",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 779,
+			"da_username": null,
+			"pd_username": "glasgalahad",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 780,
+			"da_username": null,
+			"pd_username": "godhex",
+			"baubles": 49411,
+			"da_items": 0,
+			"pd_items": 839
+		},
+		{
+			"index": 781,
+			"da_username": null,
+			"pd_username": "grimlinpeets",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 782,
+			"da_username": null,
+			"pd_username": "grimm-oire",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 783,
+			"da_username": null,
+			"pd_username": "growlingdeer",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 784,
+			"da_username": null,
+			"pd_username": "hail-art",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 785,
+			"da_username": null,
+			"pd_username": "halcyonblue",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 786,
+			"da_username": null,
+			"pd_username": "hatimoonchaser",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 787,
+			"da_username": null,
+			"pd_username": "haybo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 788,
+			"da_username": null,
+			"pd_username": "hbrenee",
+			"baubles": 1100,
+			"da_items": 0,
+			"pd_items": 25
+		},
+		{
+			"index": 789,
+			"da_username": null,
+			"pd_username": "hellsdementedangel",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 5
+		},
+		{
+			"index": 790,
+			"da_username": null,
+			"pd_username": "highyena",
+			"baubles": 595,
+			"da_items": 0,
+			"pd_items": 18
+		},
+		{
+			"index": 791,
+			"da_username": null,
+			"pd_username": "honeyqlass",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 792,
+			"da_username": null,
+			"pd_username": "horse42889",
+			"baubles": 4134,
+			"da_items": 0,
+			"pd_items": 416
+		},
+		{
+			"index": 793,
+			"da_username": null,
+			"pd_username": "huniedove",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 25
+		},
+		{
+			"index": 794,
+			"da_username": null,
+			"pd_username": "iamdiversity",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 795,
+			"da_username": null,
+			"pd_username": "icedragonqueen22",
+			"baubles": 9085,
+			"da_items": 0,
+			"pd_items": 323
+		},
+		{
+			"index": 796,
+			"da_username": null,
+			"pd_username": "icyvelv",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 30
+		},
+		{
+			"index": 797,
+			"da_username": null,
+			"pd_username": "iiixkitsunexiii",
+			"baubles": 6130,
+			"da_items": 0,
+			"pd_items": 37
+		},
+		{
+			"index": 798,
+			"da_username": null,
+			"pd_username": "inuko",
+			"baubles": 2950,
+			"da_items": 0,
+			"pd_items": 136
+		},
+		{
+			"index": 799,
+			"da_username": null,
+			"pd_username": "iriosatelis",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 800,
+			"da_username": null,
+			"pd_username": "jaxonanubis",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 801,
+			"da_username": null,
+			"pd_username": "jaybird360",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 11
+		},
+		{
+			"index": 802,
+			"da_username": null,
+			"pd_username": "jeansus",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 803,
+			"da_username": null,
+			"pd_username": "kach-22",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 804,
+			"da_username": null,
+			"pd_username": "kalfiez",
+			"baubles": 1100,
+			"da_items": 0,
+			"pd_items": 53
+		},
+		{
+			"index": 805,
+			"da_username": null,
+			"pd_username": "kalmansielu",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 806,
+			"da_username": null,
+			"pd_username": "kardinalwolf",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 807,
+			"da_username": null,
+			"pd_username": "kassuna",
+			"baubles": 133656,
+			"da_items": 0,
+			"pd_items": 1748
+		},
+		{
+			"index": 808,
+			"da_username": null,
+			"pd_username": "kayzeanart",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 809,
+			"da_username": null,
+			"pd_username": "kendarath",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 810,
+			"da_username": null,
+			"pd_username": "khal99",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 811,
+			"da_username": null,
+			"pd_username": "king-icarus",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 812,
+			"da_username": null,
+			"pd_username": "kitkat5500",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 813,
+			"da_username": null,
+			"pd_username": "kiwikinq",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 10
+		},
+		{
+			"index": 814,
+			"da_username": null,
+			"pd_username": "kmcallah",
+			"baubles": 1100,
+			"da_items": 0,
+			"pd_items": 179
+		},
+		{
+			"index": 815,
+			"da_username": null,
+			"pd_username": "kower",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 816,
+			"da_username": null,
+			"pd_username": "kyennalla",
+			"baubles": 8947,
+			"da_items": 0,
+			"pd_items": 190
+		},
+		{
+			"index": 817,
+			"da_username": null,
+			"pd_username": "kyuunazaraki",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 30
+		},
+		{
+			"index": 818,
+			"da_username": null,
+			"pd_username": "labratmischeif",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 819,
+			"da_username": null,
+			"pd_username": "lamiguts",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 820,
+			"da_username": null,
+			"pd_username": "light51",
+			"baubles": 1000,
+			"da_items": 0,
+			"pd_items": 25
+		},
+		{
+			"index": 821,
+			"da_username": null,
+			"pd_username": "lilithsinclair",
+			"baubles": 1250,
+			"da_items": 0,
+			"pd_items": 33
+		},
+		{
+			"index": 822,
+			"da_username": null,
+			"pd_username": "lilpunkaboo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 823,
+			"da_username": null,
+			"pd_username": "litleocub0722",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 824,
+			"da_username": null,
+			"pd_username": "logicalcookie",
+			"baubles": 3000,
+			"da_items": 0,
+			"pd_items": 189
+		},
+		{
+			"index": 825,
+			"da_username": null,
+			"pd_username": "lolbit",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 5
+		},
+		{
+			"index": 826,
+			"da_username": null,
+			"pd_username": "lucreziawanuzi",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 2
+		},
+		{
+			"index": 827,
+			"da_username": null,
+			"pd_username": "lycan-paws",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 2
+		},
+		{
+			"index": 828,
+			"da_username": null,
+			"pd_username": "m0thhat",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 829,
+			"da_username": null,
+			"pd_username": "magpied",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 830,
+			"da_username": null,
+			"pd_username": "malkavian",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 831,
+			"da_username": null,
+			"pd_username": "mamafoxi",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 16
+		},
+		{
+			"index": 832,
+			"da_username": null,
+			"pd_username": "marifoxylobo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 833,
+			"da_username": null,
+			"pd_username": "maxtheoxymoron",
+			"baubles": 8366,
+			"da_items": 0,
+			"pd_items": 394
+		},
+		{
+			"index": 834,
+			"da_username": null,
+			"pd_username": "meektheanimator",
+			"baubles": 300,
+			"da_items": 0,
+			"pd_items": 12
+		},
+		{
+			"index": 835,
+			"da_username": null,
+			"pd_username": "memuii",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 836,
+			"da_username": null,
+			"pd_username": "mistake-paradise",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 837,
+			"da_username": null,
+			"pd_username": "moirastrash",
+			"baubles": 1562,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 838,
+			"da_username": null,
+			"pd_username": "monstaluv892",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 33
+		},
+		{
+			"index": 839,
+			"da_username": null,
+			"pd_username": "moonflowerrs",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 29
+		},
+		{
+			"index": 840,
+			"da_username": null,
+			"pd_username": "moonie",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 841,
+			"da_username": null,
+			"pd_username": "mystrick",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 27
+		},
+		{
+			"index": 842,
+			"da_username": null,
+			"pd_username": "neyua",
+			"baubles": 250,
+			"da_items": 0,
+			"pd_items": 3
+		},
+		{
+			"index": 843,
+			"da_username": null,
+			"pd_username": "nightysk1ez",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 844,
+			"da_username": null,
+			"pd_username": "niii2418",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 845,
+			"da_username": null,
+			"pd_username": "nobodys00special",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 846,
+			"da_username": null,
+			"pd_username": "noctistwilight",
+			"baubles": 16099,
+			"da_items": 0,
+			"pd_items": 239
+		},
+		{
+			"index": 847,
+			"da_username": null,
+			"pd_username": "notlazeon",
+			"baubles": 6394,
+			"da_items": 0,
+			"pd_items": 21
+		},
+		{
+			"index": 848,
+			"da_username": null,
+			"pd_username": "notso0ffset",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 849,
+			"da_username": null,
+			"pd_username": "nova",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 850,
+			"da_username": null,
+			"pd_username": "november",
+			"baubles": 7505,
+			"da_items": 0,
+			"pd_items": 419
+		},
+		{
+			"index": 851,
+			"da_username": null,
+			"pd_username": "oreleth",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 852,
+			"da_username": null,
+			"pd_username": "ospreens",
+			"baubles": 83,
+			"da_items": 0,
+			"pd_items": 16
+		},
+		{
+			"index": 853,
+			"da_username": null,
+			"pd_username": "parasitic-king",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 854,
+			"da_username": null,
+			"pd_username": "pawstepsinthesnow",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 12
+		},
+		{
+			"index": 855,
+			"da_username": null,
+			"pd_username": "peachpit",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 856,
+			"da_username": null,
+			"pd_username": "persephobee",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 857,
+			"da_username": null,
+			"pd_username": "phicarus",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 858,
+			"da_username": null,
+			"pd_username": "poof0w0",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 859,
+			"da_username": null,
+			"pd_username": "princelyf",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 860,
+			"da_username": null,
+			"pd_username": "prussiaxitaly",
+			"baubles": 6261,
+			"da_items": 0,
+			"pd_items": 332
+		},
+		{
+			"index": 861,
+			"da_username": null,
+			"pd_username": "queenalpha",
+			"baubles": 2100,
+			"da_items": 0,
+			"pd_items": 161
+		},
+		{
+			"index": 862,
+			"da_username": null,
+			"pd_username": "ravenheart",
+			"baubles": 25666,
+			"da_items": 0,
+			"pd_items": 1013
+		},
+		{
+			"index": 863,
+			"da_username": null,
+			"pd_username": "rebelrai",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 20
+		},
+		{
+			"index": 864,
+			"da_username": null,
+			"pd_username": "redleaderrabbit",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 865,
+			"da_username": null,
+			"pd_username": "reenvhai",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 866,
+			"da_username": null,
+			"pd_username": "revverie",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 867,
+			"da_username": null,
+			"pd_username": "rhari",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 868,
+			"da_username": null,
+			"pd_username": "rimmir",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 869,
+			"da_username": null,
+			"pd_username": "robomnz",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 870,
+			"da_username": null,
+			"pd_username": "rowan-trees",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 871,
+			"da_username": null,
+			"pd_username": "rubyeyerie",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 16
+		},
+		{
+			"index": 872,
+			"da_username": null,
+			"pd_username": "sacredscales",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 873,
+			"da_username": null,
+			"pd_username": "satchistryx25",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 874,
+			"da_username": null,
+			"pd_username": "sayunomari",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 875,
+			"da_username": null,
+			"pd_username": "sei-it",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 30
+		},
+		{
+			"index": 876,
+			"da_username": null,
+			"pd_username": "senna541",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 877,
+			"da_username": null,
+			"pd_username": "serefine",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 878,
+			"da_username": null,
+			"pd_username": "shimmer28",
+			"baubles": 250,
+			"da_items": 0,
+			"pd_items": 3
+		},
+		{
+			"index": 879,
+			"da_username": null,
+			"pd_username": "sileneshoba",
+			"baubles": 3100,
+			"da_items": 0,
+			"pd_items": 283
+		},
+		{
+			"index": 880,
+			"da_username": null,
+			"pd_username": "sjachspell",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 881,
+			"da_username": null,
+			"pd_username": "sky-limits",
+			"baubles": 492,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 882,
+			"da_username": null,
+			"pd_username": "skylion44",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 883,
+			"da_username": null,
+			"pd_username": "sparrowhound",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 884,
+			"da_username": null,
+			"pd_username": "sstimber",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 885,
+			"da_username": null,
+			"pd_username": "summer-fireflies06",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 1
+		},
+		{
+			"index": 886,
+			"da_username": null,
+			"pd_username": "taalrulthianqueen",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 887,
+			"da_username": null,
+			"pd_username": "thakir",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 888,
+			"da_username": null,
+			"pd_username": "theblackalicorn",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 889,
+			"da_username": null,
+			"pd_username": "thehollyraven",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 890,
+			"da_username": null,
+			"pd_username": "thirdroulette",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 13
+		},
+		{
+			"index": 891,
+			"da_username": null,
+			"pd_username": "thylajaw",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 892,
+			"da_username": null,
+			"pd_username": "trashdragons",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 893,
+			"da_username": null,
+			"pd_username": "trickylai",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 5
+		},
+		{
+			"index": 894,
+			"da_username": null,
+			"pd_username": "unawarewolf",
+			"baubles": 5710,
+			"da_items": 0,
+			"pd_items": 54
+		},
+		{
+			"index": 895,
+			"da_username": null,
+			"pd_username": "unicorn-panda",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 896,
+			"da_username": null,
+			"pd_username": "urzas",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 897,
+			"da_username": null,
+			"pd_username": "usuyukisou",
+			"baubles": 1995,
+			"da_items": 0,
+			"pd_items": 17
+		},
+		{
+			"index": 898,
+			"da_username": null,
+			"pd_username": "vallendoria",
+			"baubles": 1513,
+			"da_items": 0,
+			"pd_items": 38
+		},
+		{
+			"index": 899,
+			"da_username": null,
+			"pd_username": "velocity-bunny",
+			"baubles": 400,
+			"da_items": 0,
+			"pd_items": 31
+		},
+		{
+			"index": 900,
+			"da_username": null,
+			"pd_username": "venivenivenias",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 901,
+			"da_username": null,
+			"pd_username": "venom",
+			"baubles": 1340,
+			"da_items": 0,
+			"pd_items": 12
+		},
+		{
+			"index": 902,
+			"da_username": null,
+			"pd_username": "victoriousz",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 903,
+			"da_username": null,
+			"pd_username": "viperidaex",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 3
+		},
+		{
+			"index": 904,
+			"da_username": null,
+			"pd_username": "viral-rott",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 2
+		},
+		{
+			"index": 905,
+			"da_username": null,
+			"pd_username": "void",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 906,
+			"da_username": null,
+			"pd_username": "vonmorjo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 907,
+			"da_username": null,
+			"pd_username": "vulture-bone",
+			"baubles": 409,
+			"da_items": 0,
+			"pd_items": 254
+		},
+		{
+			"index": 908,
+			"da_username": null,
+			"pd_username": "watchermagic",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		},
+		{
+			"index": 909,
+			"da_username": null,
+			"pd_username": "whitelupine",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 910,
+			"da_username": null,
+			"pd_username": "windyoshi",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 911,
+			"da_username": null,
+			"pd_username": "wolfbug",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 912,
+			"da_username": null,
+			"pd_username": "wolfiemix",
+			"baubles": 2750,
+			"da_items": 0,
+			"pd_items": 16
+		},
+		{
+			"index": 913,
+			"da_username": null,
+			"pd_username": "wolfiish-arpg",
+			"baubles": 1085,
+			"da_items": 0,
+			"pd_items": 14
+		},
+		{
+			"index": 914,
+			"da_username": null,
+			"pd_username": "wolvenlair",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 3
+		},
+		{
+			"index": 915,
+			"da_username": null,
+			"pd_username": "wvrmwoods",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 916,
+			"da_username": null,
+			"pd_username": "xenbonzacura",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 0
+		},
+		{
+			"index": 917,
+			"da_username": null,
+			"pd_username": "xisame-w",
+			"baubles": 14636,
+			"da_items": 0,
+			"pd_items": 266
+		},
+		{
+			"index": 918,
+			"da_username": null,
+			"pd_username": "zelebirbo",
+			"baubles": 0,
+			"da_items": 0,
+			"pd_items": 4
+		}
+	]
+}
